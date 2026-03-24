@@ -1,0 +1,1501 @@
+State,Crop,Soil_Type,Fertilizer,N,P,K,Rainfall_mm,Temperature_C,Yield_kg_per_acre,Soil_pH,Year
+Karnataka,Soybean,Loamy,DAP,96,41,51,123,31.06,1899,6.82,2003
+Odisha,Cotton,Red Soil,Urea,29,36,112,247,33.97,1002,6.41,2002
+Punjab,Groundnut,Red Soil,Compost,37,38,177,142,24.21,1465,7.06,2015
+Gujarat,Wheat,Red Soil,Compost,58,77,129,227,30.85,2273,5.93,2022
+Andhra Pradesh,Cotton,Clay,Organic,108,61,63,263,37.81,1497,6.24,2017
+Odisha,Wheat,Black Soil,NPK,40,106,197,232,30.62,2119,7.08,2010
+Haryana,Cotton,Black Soil,NPK,48,111,67,164,28.42,1568,7.82,2024
+Maharashtra,Millet,Loamy,DAP,113,78,102,266,23.82,1384,6.29,2003
+Andhra Pradesh,Rice,Black Soil,NPK,53,60,98,292,33.17,1963,6.43,2015
+Gujarat,Sugarcane,Clay,NPK,136,39,69,85,30.64,54460,5.54,2018
+Haryana,Barley,Loamy,Compost,45,94,77,159,27.14,1797,7.2,2012
+Punjab,Pulses,Red Soil,Potash,126,31,183,107,32.6,1189,7.8,2009
+Andhra Pradesh,Soybean,Sandy,Urea,110,36,105,295,21.92,1297,6.06,2004
+Rajasthan,Groundnut,Red Soil,DAP,42,85,107,113,28.52,1117,6.27,2022
+Andhra Pradesh,Barley,Black Soil,DAP,37,68,105,277,29.07,2389,7.87,2010
+Uttar Pradesh,Soybean,Black Soil,Compost,139,21,133,136,27.82,1156,7.71,2016
+Bihar,Pulses,Black Soil,Compost,120,112,155,229,19.68,921,6.13,2003
+Karnataka,Cotton,Red Soil,Organic,125,7,22,111,28.36,1130,5.84,2013
+Kerala,Maize,Sandy,NPK,131,57,139,171,19.71,1345,6.09,2008
+Bihar,Barley,Loamy,Urea,131,89,74,53,22.25,2393,7.47,2000
+Tamil Nadu,Sugarcane,Black Soil,Compost,14,41,77,139,31.05,51171,5.93,2003
+Karnataka,Barley,Black Soil,DAP,123,53,74,233,19.13,1571,6.82,2021
+Kerala,Wheat,Red Soil,Organic,73,116,20,69,24.16,2808,6.39,2006
+Kerala,Pulses,Loamy,DAP,44,28,167,176,21.24,1372,6.56,2010
+Kerala,Pulses,Clay,DAP,110,88,197,50,20.7,1400,7.11,2003
+Madhya Pradesh,Soybean,Black Soil,DAP,53,6,102,66,25.4,1786,6.82,2011
+Kerala,Maize,Red Soil,Compost,81,53,101,122,30.42,2096,7.13,2006
+West Bengal,Groundnut,Black Soil,Compost,27,64,28,68,22.93,1328,6.11,2022
+Telangana,Cotton,Sandy,Organic,27,23,128,207,23.28,929,5.51,2005
+Maharashtra,Wheat,Red Soil,Urea,81,10,111,198,20.13,4358,7.76,2016
+Maharashtra,Maize,Clay,DAP,101,57,94,297,33.08,2969,7.51,2016
+Telangana,Wheat,Sandy,Compost,108,109,74,81,25.29,3851,7.93,2014
+Gujarat,Rice,Clay,Urea,87,23,149,61,18.85,3048,6.16,2008
+Bihar,Groundnut,Loamy,DAP,42,42,80,136,37.06,1214,7.09,2023
+Tamil Nadu,Sugarcane,Clay,Compost,108,14,28,222,19.43,71453,6.21,2002
+Uttar Pradesh,Barley,Sandy,Urea,26,32,116,272,33.46,1438,6.75,2013
+Uttar Pradesh,Sugarcane,Sandy,Urea,59,6,33,97,36.2,88375,7.26,2002
+Karnataka,Groundnut,Sandy,Potash,11,99,195,218,37.41,1492,6.08,2018
+Telangana,Wheat,Loamy,NPK,135,52,126,262,33.18,3857,5.73,2013
+Karnataka,Sugarcane,Sandy,NPK,22,106,179,250,36.55,63034,6.93,2007
+Madhya Pradesh,Groundnut,Sandy,Compost,83,24,174,58,20.28,1716,7.98,2006
+Rajasthan,Groundnut,Sandy,Compost,30,94,83,238,23.71,1402,7.34,2004
+Rajasthan,Wheat,Clay,Potash,36,82,72,263,31.38,2666,5.82,2009
+Andhra Pradesh,Groundnut,Clay,DAP,84,107,21,295,31.7,815,6.52,2003
+Rajasthan,Cotton,Black Soil,Urea,133,7,110,74,25.46,886,7.42,2004
+Andhra Pradesh,Pulses,Clay,Organic,78,107,24,172,20.32,1502,7.98,2012
+Telangana,Pulses,Loamy,Urea,50,57,189,225,19.01,1089,7.07,2000
+Punjab,Groundnut,Loamy,Potash,43,63,168,116,20.15,919,7.08,2000
+Karnataka,Wheat,Loamy,Compost,35,81,53,237,22.18,2574,7.82,2017
+Andhra Pradesh,Millet,Clay,Organic,34,53,87,286,20.8,760,5.54,2013
+Andhra Pradesh,Maize,Loamy,Urea,20,65,64,57,21.7,1165,6.43,2004
+Punjab,Barley,Black Soil,Compost,40,116,160,81,32.89,2139,7.99,2024
+Uttar Pradesh,Sugarcane,Loamy,Organic,72,118,65,248,21.45,67399,6.4,2002
+Karnataka,Wheat,Loamy,DAP,99,16,12,173,29.74,3592,7.0,2018
+Kerala,Pulses,Clay,Urea,35,59,40,193,36.27,822,7.17,2021
+Karnataka,Maize,Loamy,Urea,83,106,138,213,33.27,2587,5.83,2018
+Rajasthan,Sugarcane,Black Soil,Potash,98,92,183,87,20.28,59474,5.71,2009
+Maharashtra,Millet,Red Soil,Organic,108,47,78,217,31.61,1035,5.66,2017
+Karnataka,Barley,Black Soil,Potash,17,47,75,156,30.89,1868,5.63,2013
+West Bengal,Sugarcane,Sandy,Organic,95,109,99,230,24.71,63770,7.54,2004
+Haryana,Pulses,Clay,Compost,80,99,76,255,34.24,1494,6.98,2020
+Uttar Pradesh,Pulses,Sandy,NPK,65,36,16,105,22.49,1603,7.64,2020
+Telangana,Millet,Red Soil,NPK,115,87,116,108,25.35,922,6.69,2009
+West Bengal,Barley,Black Soil,DAP,25,14,42,277,26.24,2384,6.17,2004
+Maharashtra,Wheat,Clay,NPK,131,24,48,73,25.52,2979,6.17,2021
+Haryana,Pulses,Loamy,Compost,120,101,107,211,22.38,1452,7.6,2019
+Haryana,Wheat,Black Soil,Organic,82,97,108,63,28.56,4093,7.33,2023
+Gujarat,Groundnut,Clay,Compost,110,86,14,55,19.32,1322,7.6,2018
+Uttar Pradesh,Soybean,Black Soil,NPK,103,28,119,210,18.57,1044,7.69,2020
+Rajasthan,Pulses,Black Soil,Urea,22,62,38,256,33.87,1084,5.7,2000
+West Bengal,Groundnut,Clay,DAP,19,43,107,279,32.54,872,7.28,2001
+Maharashtra,Cotton,Sandy,DAP,117,17,195,137,34.58,1285,7.6,2006
+Odisha,Millet,Loamy,Organic,29,29,25,129,32.12,765,7.27,2020
+Andhra Pradesh,Soybean,Red Soil,Urea,86,57,192,255,30.19,1654,5.97,2015
+Karnataka,Groundnut,Black Soil,Organic,99,47,164,126,20.58,1083,5.94,2002
+Uttar Pradesh,Barley,Sandy,Potash,13,58,33,114,33.58,2692,7.74,2001
+Andhra Pradesh,Maize,Sandy,Urea,116,73,124,180,30.93,2864,6.21,2012
+Uttar Pradesh,Rice,Red Soil,Potash,114,45,69,279,20.35,2544,6.16,2023
+Odisha,Soybean,Clay,NPK,127,19,193,159,25.63,850,5.79,2001
+Andhra Pradesh,Maize,Clay,Urea,133,109,152,141,26.73,2785,5.65,2005
+Madhya Pradesh,Barley,Black Soil,Urea,130,6,196,96,19.22,1377,6.7,2018
+Tamil Nadu,Soybean,Clay,DAP,85,90,106,67,37.87,1682,7.89,2019
+Uttar Pradesh,Rice,Red Soil,Organic,30,108,98,214,29.69,3323,6.52,2001
+Odisha,Cotton,Red Soil,Compost,40,62,67,269,29.35,1285,7.3,2000
+Kerala,Groundnut,Black Soil,Urea,43,17,74,148,22.97,1725,5.86,2003
+Kerala,Rice,Red Soil,Potash,33,30,54,230,24.72,1761,7.18,2007
+Andhra Pradesh,Pulses,Red Soil,DAP,102,54,127,118,29.1,1031,7.61,2005
+Uttar Pradesh,Sugarcane,Black Soil,Compost,21,116,39,70,26.47,60552,7.92,2022
+Telangana,Rice,Loamy,Compost,120,84,72,173,23.15,3149,6.81,2007
+Bihar,Pulses,Clay,NPK,130,40,69,269,35.5,1796,6.1,2018
+Punjab,Barley,Sandy,Organic,19,68,83,294,26.45,2769,7.81,2007
+Uttar Pradesh,Cotton,Black Soil,Potash,65,45,128,232,29.4,927,5.9,2001
+Karnataka,Pulses,Red Soil,Organic,79,74,102,147,31.17,1320,6.48,2012
+Haryana,Pulses,Loamy,Organic,96,30,123,62,19.94,1130,7.18,2008
+Maharashtra,Pulses,Red Soil,Organic,33,39,74,143,32.34,1408,7.92,2020
+Telangana,Barley,Loamy,NPK,94,91,13,222,32.67,2443,6.31,2008
+Punjab,Soybean,Sandy,Compost,118,54,82,169,37.92,871,5.76,2016
+West Bengal,Rice,Sandy,Urea,17,5,25,213,35.67,2166,5.95,2003
+Odisha,Soybean,Red Soil,NPK,36,33,192,267,35.64,1159,6.8,2009
+Telangana,Millet,Red Soil,Compost,18,54,136,191,29.91,1111,7.51,2023
+Maharashtra,Maize,Black Soil,Urea,52,75,140,242,18.15,1178,7.1,2022
+Odisha,Pulses,Loamy,Compost,24,60,81,127,25.94,1264,6.99,2001
+Kerala,Cotton,Black Soil,DAP,70,23,166,165,31.35,1168,7.86,2004
+Madhya Pradesh,Maize,Clay,Urea,68,47,130,196,22.84,1725,7.36,2020
+Haryana,Sugarcane,Sandy,Compost,44,71,99,229,34.39,56711,6.74,2008
+Madhya Pradesh,Maize,Black Soil,Potash,35,66,28,215,29.86,1816,6.62,2000
+Haryana,Cotton,Black Soil,Potash,73,55,73,268,22.02,1726,7.41,2020
+Gujarat,Sugarcane,Red Soil,DAP,28,6,195,292,34.84,67781,6.43,2011
+Gujarat,Sugarcane,Clay,DAP,116,66,61,94,19.18,60579,6.21,2006
+Telangana,Soybean,Sandy,Potash,14,8,138,59,27.05,1842,6.86,2008
+Haryana,Soybean,Black Soil,DAP,111,71,10,100,28.02,1698,6.39,2007
+Karnataka,Groundnut,Black Soil,Organic,138,65,25,103,25.75,945,7.58,2003
+Punjab,Barley,Loamy,Organic,64,53,70,115,29.25,1753,7.76,2002
+Andhra Pradesh,Maize,Clay,Urea,70,51,199,252,30.58,1819,7.09,2015
+Kerala,Rice,Black Soil,Urea,69,90,108,153,29.26,1902,5.65,2016
+Andhra Pradesh,Pulses,Sandy,DAP,14,18,102,122,33.09,1720,7.8,2016
+Gujarat,Wheat,Loamy,DAP,53,44,70,267,30.79,2088,7.25,2006
+Rajasthan,Barley,Loamy,DAP,138,102,145,192,23.63,1944,5.96,2002
+Tamil Nadu,Wheat,Red Soil,Organic,22,29,15,85,33.52,3477,7.67,2008
+Bihar,Maize,Loamy,Compost,13,106,30,179,33.3,2581,7.04,2017
+Madhya Pradesh,Millet,Clay,Potash,64,112,156,98,31.79,1495,7.7,2023
+Bihar,Sugarcane,Loamy,DAP,10,44,185,247,28.51,65155,6.94,2019
+Uttar Pradesh,Sugarcane,Clay,Potash,108,92,140,54,23.64,81505,6.24,2021
+Karnataka,Barley,Loamy,Compost,65,102,58,279,29.24,2840,7.86,2024
+Haryana,Millet,Black Soil,NPK,137,48,162,248,22.51,810,6.3,2013
+Punjab,Maize,Sandy,Urea,118,96,178,67,21.4,2429,6.03,2004
+West Bengal,Wheat,Clay,NPK,16,94,16,231,22.15,4014,6.72,2012
+West Bengal,Sugarcane,Black Soil,DAP,70,114,156,235,19.37,67708,5.59,2003
+Andhra Pradesh,Maize,Red Soil,Compost,81,98,197,127,24.38,1938,7.43,2019
+Maharashtra,Rice,Red Soil,Compost,55,5,176,205,29.75,2312,7.12,2012
+Bihar,Soybean,Loamy,DAP,73,80,58,58,25.19,1649,6.62,2024
+Punjab,Barley,Loamy,DAP,115,17,144,168,37.69,2123,7.93,2007
+Gujarat,Pulses,Clay,Potash,24,72,172,94,25.48,1699,7.31,2018
+Rajasthan,Maize,Clay,Organic,132,18,138,240,29.13,2416,6.52,2000
+Andhra Pradesh,Soybean,Clay,Compost,90,97,21,214,21.34,1958,7.84,2020
+Gujarat,Soybean,Black Soil,DAP,23,52,22,280,21.06,1409,7.68,2022
+Kerala,Maize,Sandy,Potash,22,27,119,284,30.12,2143,6.65,2018
+Maharashtra,Cotton,Black Soil,Potash,16,74,43,106,37.27,922,6.17,2023
+West Bengal,Barley,Clay,Potash,137,9,87,189,35.54,2413,6.64,2024
+Gujarat,Millet,Sandy,Urea,113,52,68,274,24.34,546,7.23,2019
+Punjab,Barley,Clay,Compost,31,33,35,141,29.3,1925,7.44,2001
+Punjab,Millet,Red Soil,Compost,38,72,50,117,21.6,1012,5.64,2019
+Andhra Pradesh,Cotton,Red Soil,Compost,130,105,35,218,26.79,1140,7.45,2006
+Madhya Pradesh,Soybean,Red Soil,Potash,66,87,31,298,18.71,824,7.58,2012
+West Bengal,Soybean,Clay,Urea,139,36,93,77,34.78,1677,5.9,2024
+Gujarat,Groundnut,Black Soil,NPK,66,98,27,63,27.64,1739,7.27,2011
+Kerala,Wheat,Loamy,Potash,110,104,175,86,30.27,2841,7.04,2022
+Telangana,Maize,Sandy,Potash,36,47,144,254,22.95,2060,6.09,2008
+Maharashtra,Pulses,Sandy,Compost,80,104,55,188,23.8,1304,5.91,2015
+Kerala,Rice,Red Soil,Urea,59,26,149,104,23.19,1886,7.4,2023
+Maharashtra,Soybean,Red Soil,Compost,100,47,59,148,20.05,1790,5.84,2002
+Maharashtra,Groundnut,Black Soil,Potash,12,36,124,209,37.07,1787,6.69,2006
+Tamil Nadu,Soybean,Clay,Urea,34,90,189,256,18.75,1951,7.88,2017
+Tamil Nadu,Maize,Clay,NPK,66,89,73,54,22.09,1844,7.44,2000
+Rajasthan,Soybean,Loamy,Potash,109,54,134,201,25.36,817,7.44,2001
+Rajasthan,Cotton,Clay,Compost,80,82,73,289,24.93,1116,7.32,2001
+Odisha,Groundnut,Clay,Organic,18,71,42,125,32.66,1616,7.49,2014
+Rajasthan,Rice,Red Soil,Organic,105,85,192,248,25.64,2283,6.9,2014
+Telangana,Millet,Clay,NPK,135,24,162,292,34.96,1145,6.42,2006
+Punjab,Cotton,Red Soil,DAP,60,119,45,263,36.01,942,6.47,2020
+Telangana,Rice,Sandy,Organic,126,42,100,251,35.31,2330,6.39,2009
+Punjab,Pulses,Red Soil,Potash,24,23,16,112,30.13,1329,7.12,2004
+Telangana,Sugarcane,Clay,DAP,11,106,136,57,24.54,71822,6.47,2022
+Telangana,Wheat,Red Soil,Potash,21,107,43,174,21.49,3791,6.96,2006
+Maharashtra,Soybean,Sandy,DAP,26,90,18,149,20.34,1638,6.45,2003
+Uttar Pradesh,Millet,Sandy,Organic,40,48,169,216,22.74,1256,5.56,2022
+Maharashtra,Barley,Black Soil,Urea,21,68,178,219,20.82,1882,6.76,2016
+Rajasthan,Wheat,Red Soil,Compost,124,37,174,151,34.16,2721,6.72,2024
+West Bengal,Rice,Red Soil,DAP,57,13,97,290,29.65,3448,6.41,2023
+Rajasthan,Maize,Red Soil,Urea,45,107,163,226,19.39,1838,6.09,2021
+Odisha,Wheat,Red Soil,NPK,100,83,155,242,31.39,2131,5.61,2020
+Karnataka,Groundnut,Red Soil,Urea,121,22,69,155,30.36,1853,7.25,2018
+West Bengal,Cotton,Sandy,NPK,76,49,47,144,18.22,1572,6.07,2014
+Telangana,Millet,Red Soil,NPK,11,54,155,278,31.33,1303,5.85,2023
+West Bengal,Pulses,Clay,Urea,130,55,150,60,26.27,637,6.07,2001
+Telangana,Groundnut,Clay,Potash,73,65,195,86,19.84,1907,7.39,2000
+Kerala,Barley,Black Soil,Potash,139,52,152,253,26.47,2683,5.93,2019
+Madhya Pradesh,Maize,Black Soil,Organic,100,38,97,270,19.2,2188,5.57,2000
+Punjab,Soybean,Black Soil,Urea,31,33,99,279,35.67,1797,6.54,2020
+Madhya Pradesh,Millet,Clay,Compost,112,24,167,257,28.67,686,7.64,2019
+Rajasthan,Maize,Sandy,Potash,59,77,78,195,33.11,2258,7.01,2011
+Kerala,Barley,Sandy,Organic,95,63,101,117,23.54,2119,5.8,2005
+Haryana,Barley,Black Soil,NPK,46,46,24,219,33.52,2744,7.61,2015
+Haryana,Soybean,Clay,Organic,70,93,50,283,18.42,1072,7.86,2004
+Tamil Nadu,Sugarcane,Red Soil,DAP,71,119,171,230,25.11,77823,7.74,2023
+Odisha,Sugarcane,Loamy,Potash,116,107,141,73,29.66,52396,5.62,2002
+West Bengal,Groundnut,Loamy,NPK,79,45,11,198,23.35,1466,6.29,2017
+Haryana,Barley,Loamy,Compost,60,38,85,142,26.62,2391,7.45,2013
+Rajasthan,Groundnut,Loamy,Organic,27,6,149,114,24.29,1699,7.86,2000
+Odisha,Rice,Loamy,Compost,83,9,63,286,27.9,1724,6.99,2000
+Kerala,Cotton,Black Soil,Organic,38,49,91,96,25.01,1314,6.64,2009
+Kerala,Cotton,Loamy,NPK,64,79,161,299,35.82,1524,7.6,2012
+Kerala,Maize,Sandy,Urea,36,95,134,152,33.7,2791,6.88,2006
+Tamil Nadu,Groundnut,Red Soil,DAP,49,21,84,66,21.24,1425,6.44,2004
+Uttar Pradesh,Cotton,Black Soil,Potash,75,36,143,187,23.46,890,5.77,2013
+Telangana,Groundnut,Black Soil,DAP,59,103,16,180,25.66,1848,5.96,2010
+Rajasthan,Groundnut,Clay,Potash,17,56,96,78,37.05,1943,7.63,2013
+Tamil Nadu,Cotton,Red Soil,Urea,47,71,58,218,24.46,1577,7.83,2023
+Tamil Nadu,Cotton,Sandy,DAP,130,66,48,172,29.22,1487,6.25,2022
+Gujarat,Rice,Sandy,Organic,135,104,72,161,33.33,3369,7.33,2013
+Karnataka,Rice,Black Soil,DAP,17,16,41,178,32.4,1937,7.01,2011
+Telangana,Millet,Sandy,NPK,39,12,169,223,36.54,585,5.95,2015
+Kerala,Cotton,Sandy,NPK,90,99,95,62,34.06,1376,6.9,2018
+Bihar,Cotton,Clay,Urea,45,58,64,198,32.44,1119,6.02,2013
+Madhya Pradesh,Wheat,Sandy,Urea,46,14,48,89,19.6,4301,6.85,2004
+Telangana,Barley,Clay,Organic,43,65,79,254,30.29,1976,7.97,2007
+Kerala,Rice,Clay,Organic,69,103,144,126,34.67,2238,5.61,2015
+Kerala,Maize,Red Soil,Compost,131,105,12,256,32.49,1231,6.73,2017
+Tamil Nadu,Sugarcane,Sandy,Organic,57,54,65,85,19.73,78096,7.67,2023
+Kerala,Millet,Sandy,NPK,79,56,69,156,26.37,1231,7.95,2001
+Telangana,Maize,Clay,Urea,22,23,174,173,26.79,2565,6.24,2013
+Uttar Pradesh,Cotton,Clay,DAP,115,93,110,163,25.59,1466,6.99,2018
+Haryana,Wheat,Sandy,DAP,72,74,106,217,31.07,3709,5.78,2004
+Haryana,Rice,Loamy,Organic,81,26,122,173,29.48,2589,5.73,2022
+Uttar Pradesh,Soybean,Clay,NPK,136,24,34,161,31.03,1973,5.9,2012
+Bihar,Wheat,Clay,Organic,121,45,20,284,28.35,2483,6.56,2003
+Karnataka,Cotton,Loamy,Compost,10,26,120,288,37.95,1036,6.05,2011
+Haryana,Maize,Loamy,Compost,56,9,32,244,19.52,2049,6.9,2007
+Tamil Nadu,Cotton,Red Soil,NPK,108,74,91,189,29.84,1052,7.4,2016
+Rajasthan,Sugarcane,Sandy,DAP,59,45,116,213,28.82,87820,6.86,2023
+Karnataka,Groundnut,Red Soil,DAP,62,39,45,284,24.96,1444,6.62,2024
+Punjab,Groundnut,Sandy,DAP,101,66,155,93,37.3,1621,7.86,2021
+Bihar,Rice,Clay,DAP,61,81,10,284,20.91,2364,7.69,2003
+Punjab,Groundnut,Black Soil,Compost,119,58,56,224,21.28,1130,7.14,2014
+Haryana,Rice,Loamy,Organic,81,23,86,282,34.52,3256,6.21,2012
+Karnataka,Soybean,Loamy,Compost,122,41,26,199,31.81,1796,6.29,2002
+Andhra Pradesh,Millet,Red Soil,Potash,56,13,46,56,22.47,528,7.86,2019
+Karnataka,Maize,Red Soil,Urea,114,87,162,76,22.64,1064,5.55,2004
+Madhya Pradesh,Cotton,Sandy,DAP,129,33,159,208,21.85,1622,7.51,2020
+Bihar,Soybean,Black Soil,NPK,57,19,110,56,20.59,1699,6.29,2017
+Tamil Nadu,Wheat,Loamy,DAP,107,73,105,244,20.03,3918,7.83,2022
+West Bengal,Cotton,Sandy,Urea,15,77,106,102,30.22,1361,7.83,2008
+Tamil Nadu,Soybean,Sandy,Potash,27,35,27,200,28.41,878,7.71,2015
+Gujarat,Soybean,Black Soil,Urea,125,80,107,124,37.38,1688,7.83,2009
+Karnataka,Barley,Loamy,Urea,57,23,89,171,34.78,1405,6.81,2013
+Karnataka,Millet,Loamy,Organic,11,110,170,123,37.31,1250,6.08,2010
+Andhra Pradesh,Cotton,Black Soil,Urea,122,63,37,60,31.77,1761,5.63,2024
+Telangana,Wheat,Black Soil,Compost,54,63,169,260,35.15,4479,6.03,2016
+Haryana,Pulses,Loamy,Potash,124,21,163,190,28.92,1019,5.79,2019
+Telangana,Sugarcane,Red Soil,Urea,56,86,189,91,30.58,59005,6.28,2001
+West Bengal,Soybean,Clay,DAP,53,86,42,97,30.53,926,5.66,2000
+Odisha,Rice,Sandy,Compost,126,118,68,147,33.13,1508,6.79,2007
+Maharashtra,Maize,Loamy,Urea,76,65,153,141,37.62,2727,7.32,2014
+Karnataka,Pulses,Red Soil,NPK,16,37,84,218,20.34,1752,7.16,2022
+West Bengal,Millet,Red Soil,Potash,59,92,114,242,24.05,1176,6.16,2011
+Odisha,Wheat,Loamy,DAP,99,7,123,95,27.72,2644,6.3,2021
+Andhra Pradesh,Pulses,Red Soil,Organic,36,11,88,138,37.54,1583,7.65,2000
+Gujarat,Sugarcane,Loamy,Urea,63,44,166,280,28.11,61862,6.63,2024
+Kerala,Soybean,Red Soil,Urea,97,36,21,283,34.06,1088,7.61,2010
+Odisha,Millet,Sandy,Compost,24,98,69,139,28.29,548,6.75,2018
+Andhra Pradesh,Rice,Loamy,DAP,86,16,175,183,29.31,3379,7.38,2018
+Kerala,Barley,Black Soil,DAP,92,36,120,52,21.26,1316,7.65,2021
+Telangana,Soybean,Clay,Organic,53,86,108,54,34.26,1328,6.86,2002
+Bihar,Millet,Sandy,Compost,103,45,95,251,28.31,777,5.52,2010
+Telangana,Cotton,Black Soil,Compost,82,110,191,255,30.09,1769,7.72,2009
+Bihar,Soybean,Clay,NPK,14,117,96,145,28.82,1374,6.29,2008
+Punjab,Cotton,Red Soil,Potash,54,58,63,234,29.47,1556,6.54,2004
+Tamil Nadu,Barley,Black Soil,Compost,42,82,67,249,30.8,1626,7.69,2004
+Bihar,Wheat,Clay,DAP,14,16,70,259,33.86,3813,6.35,2019
+Gujarat,Groundnut,Red Soil,DAP,94,33,141,204,28.49,1508,7.28,2018
+Telangana,Groundnut,Sandy,DAP,82,38,154,266,35.71,1101,7.51,2001
+Telangana,Wheat,Sandy,DAP,50,84,50,184,36.53,3089,7.2,2019
+Punjab,Rice,Loamy,Potash,70,39,108,190,37.37,2664,7.27,2024
+Andhra Pradesh,Groundnut,Loamy,Urea,73,20,142,101,32.83,1898,7.95,2012
+Punjab,Groundnut,Sandy,Compost,71,75,17,235,18.34,1554,5.79,2024
+Maharashtra,Wheat,Sandy,Organic,78,105,34,275,19.69,3527,7.8,2006
+West Bengal,Millet,Black Soil,Potash,18,42,96,276,22.17,804,7.66,2014
+West Bengal,Soybean,Red Soil,Potash,14,84,18,277,20.24,1069,7.08,2009
+Punjab,Maize,Loamy,Urea,91,40,199,171,21.69,2255,6.23,2003
+Andhra Pradesh,Millet,Sandy,NPK,47,113,120,57,21.29,502,6.35,2023
+Bihar,Groundnut,Loamy,NPK,130,29,161,284,33.72,1246,5.98,2009
+Andhra Pradesh,Wheat,Clay,Urea,55,103,168,70,34.01,2725,7.39,2020
+Rajasthan,Barley,Black Soil,NPK,88,116,97,248,35.72,2908,7.1,2013
+Haryana,Cotton,Clay,Urea,108,77,151,81,27.09,961,7.4,2019
+Bihar,Soybean,Red Soil,NPK,132,30,105,141,32.13,1689,7.62,2008
+Haryana,Rice,Black Soil,Compost,10,71,20,278,34.8,1544,5.53,2008
+Odisha,Maize,Clay,Potash,107,29,107,275,34.3,2385,6.87,2019
+Karnataka,Groundnut,Loamy,DAP,49,47,113,294,19.99,1213,7.79,2010
+Bihar,Rice,Loamy,Organic,130,109,50,130,34.61,3408,7.8,2010
+Telangana,Wheat,Red Soil,Organic,79,92,125,215,35.73,3364,7.49,2009
+Madhya Pradesh,Rice,Sandy,Potash,120,63,111,201,29.35,2204,6.12,2023
+Karnataka,Barley,Black Soil,Organic,36,9,89,52,37.68,1426,5.82,2001
+West Bengal,Sugarcane,Sandy,Compost,13,75,127,225,27.36,70316,7.99,2013
+West Bengal,Millet,Black Soil,Compost,113,57,135,68,21.62,1008,5.7,2013
+Maharashtra,Pulses,Loamy,Compost,84,10,101,111,36.43,1125,5.76,2010
+Punjab,Groundnut,Sandy,Potash,53,44,67,289,31.29,1094,7.43,2016
+Punjab,Wheat,Clay,Organic,119,68,93,232,22.57,3428,7.97,2024
+Punjab,Barley,Sandy,Compost,117,71,177,286,27.43,2760,5.86,2014
+Rajasthan,Pulses,Clay,Organic,67,97,113,286,32.88,814,6.52,2024
+Haryana,Groundnut,Black Soil,Compost,86,19,28,184,30.9,1053,7.89,2003
+Bihar,Maize,Black Soil,Compost,127,114,133,230,34.05,1906,7.38,2020
+Kerala,Rice,Red Soil,Organic,79,27,26,148,24.26,2927,7.59,2012
+Telangana,Sugarcane,Sandy,Organic,51,91,12,242,37.29,86064,6.97,2004
+West Bengal,Rice,Clay,Urea,62,70,195,258,18.54,3180,7.79,2012
+Tamil Nadu,Groundnut,Clay,DAP,46,18,189,277,32.44,1944,7.96,2017
+West Bengal,Cotton,Loamy,DAP,16,91,161,171,32.06,1695,5.61,2015
+Tamil Nadu,Wheat,Black Soil,Compost,13,97,131,95,28.58,3104,7.25,2003
+Odisha,Groundnut,Red Soil,NPK,58,12,155,190,24.1,1043,5.58,2018
+Tamil Nadu,Wheat,Clay,Urea,87,117,56,61,28.67,2712,5.97,2003
+Bihar,Barley,Loamy,Potash,44,79,25,55,18.58,2379,7.61,2011
+Andhra Pradesh,Groundnut,Red Soil,DAP,54,80,76,125,35.19,1645,6.08,2024
+Andhra Pradesh,Soybean,Clay,NPK,25,55,52,150,32.44,1447,7.94,2017
+West Bengal,Wheat,Loamy,Compost,122,31,176,217,21.44,3181,6.51,2014
+Punjab,Wheat,Loamy,NPK,24,76,160,267,37.0,2132,6.0,2007
+Tamil Nadu,Rice,Black Soil,Organic,67,98,157,71,23.71,3174,5.8,2017
+West Bengal,Groundnut,Loamy,Compost,132,78,91,99,18.18,1618,7.91,2002
+Rajasthan,Millet,Loamy,Urea,134,38,69,266,22.6,770,6.81,2003
+Odisha,Millet,Loamy,Compost,122,85,52,54,22.03,568,6.26,2000
+Maharashtra,Rice,Clay,Urea,14,29,68,219,31.28,3265,7.77,2023
+Haryana,Cotton,Black Soil,Potash,41,21,78,102,34.48,1063,6.95,2001
+Kerala,Sugarcane,Loamy,Urea,87,66,56,230,29.05,69879,7.0,2007
+West Bengal,Wheat,Loamy,Compost,127,11,99,148,21.15,4107,6.4,2009
+Kerala,Wheat,Red Soil,NPK,80,54,61,58,18.71,2438,6.31,2009
+Rajasthan,Groundnut,Black Soil,Urea,122,84,109,221,30.42,1724,7.73,2004
+Uttar Pradesh,Maize,Sandy,NPK,113,66,138,65,35.44,1207,6.93,2013
+West Bengal,Maize,Black Soil,Urea,78,95,104,212,26.06,2056,5.54,2011
+West Bengal,Cotton,Red Soil,Organic,39,48,155,285,37.83,1539,6.87,2021
+Maharashtra,Cotton,Clay,DAP,131,49,114,60,29.0,875,6.04,2015
+Tamil Nadu,Pulses,Red Soil,DAP,12,115,158,200,36.54,1043,7.8,2024
+West Bengal,Rice,Loamy,Compost,72,99,88,138,22.99,1691,6.04,2004
+Haryana,Barley,Sandy,NPK,17,86,115,146,35.58,1902,5.65,2014
+Madhya Pradesh,Sugarcane,Clay,Potash,137,10,38,201,37.13,81910,6.13,2023
+Andhra Pradesh,Cotton,Clay,Urea,74,72,109,92,29.14,1781,6.49,2008
+Tamil Nadu,Groundnut,Sandy,Compost,69,119,10,69,35.31,1669,7.99,2013
+Telangana,Soybean,Clay,Organic,135,73,127,247,28.94,1784,5.6,2004
+Maharashtra,Groundnut,Loamy,Compost,110,7,57,275,32.58,1390,6.12,2009
+West Bengal,Sugarcane,Red Soil,Potash,52,40,49,255,25.1,84012,7.74,2024
+Odisha,Soybean,Clay,Compost,85,68,35,258,34.0,1515,6.53,2019
+Punjab,Sugarcane,Black Soil,NPK,23,78,160,76,26.52,73747,6.69,2004
+Punjab,Sugarcane,Clay,Urea,135,87,24,184,24.85,68628,7.13,2001
+West Bengal,Cotton,Clay,Urea,117,96,79,118,26.95,950,6.33,2002
+Gujarat,Rice,Black Soil,Potash,39,77,96,223,20.34,1653,5.75,2020
+Gujarat,Groundnut,Loamy,DAP,93,50,128,195,33.47,1038,6.73,2004
+Kerala,Cotton,Clay,NPK,55,27,96,69,35.6,1748,6.71,2008
+Uttar Pradesh,Barley,Black Soil,Organic,28,108,150,222,31.27,1454,7.01,2012
+Rajasthan,Groundnut,Black Soil,Compost,39,83,174,84,20.57,1847,7.71,2011
+Karnataka,Soybean,Black Soil,Urea,42,116,45,71,24.39,1554,7.13,2005
+Andhra Pradesh,Pulses,Loamy,Organic,52,33,118,86,36.61,1001,7.02,2019
+Telangana,Sugarcane,Sandy,Potash,79,110,101,284,30.69,50094,5.79,2008
+Rajasthan,Wheat,Clay,DAP,84,52,31,267,22.68,2494,6.18,2014
+Bihar,Maize,Clay,Potash,125,15,150,230,27.22,2172,6.05,2016
+Uttar Pradesh,Wheat,Sandy,Urea,82,9,120,126,36.05,4031,7.4,2016
+Odisha,Pulses,Loamy,Organic,49,16,183,217,35.78,1743,7.23,2014
+Punjab,Groundnut,Loamy,DAP,133,54,169,95,31.47,1736,7.86,2006
+Maharashtra,Barley,Black Soil,Potash,81,52,100,226,26.93,1972,7.97,2000
+Rajasthan,Groundnut,Black Soil,Potash,88,31,16,163,37.94,1197,6.22,2024
+Punjab,Rice,Red Soil,Potash,104,112,23,75,34.12,2030,7.3,2013
+Karnataka,Soybean,Red Soil,Organic,29,15,41,140,27.3,1765,7.16,2024
+Haryana,Wheat,Black Soil,DAP,22,117,121,59,30.08,2464,7.42,2011
+Karnataka,Soybean,Sandy,Compost,94,18,108,169,36.79,1728,6.68,2017
+Rajasthan,Groundnut,Red Soil,NPK,118,45,58,181,23.99,1848,6.33,2020
+Punjab,Barley,Red Soil,Urea,72,49,195,104,19.77,2595,6.23,2006
+Telangana,Pulses,Red Soil,Urea,12,82,86,254,26.72,1244,7.93,2005
+Karnataka,Barley,Sandy,DAP,94,60,17,109,23.93,2565,6.85,2008
+Gujarat,Cotton,Black Soil,Potash,22,92,17,180,29.43,1564,6.28,2000
+Haryana,Barley,Clay,Potash,98,51,11,238,37.5,2281,7.79,2016
+Gujarat,Cotton,Loamy,NPK,72,90,122,216,32.65,1547,5.7,2008
+Tamil Nadu,Maize,Red Soil,Urea,55,60,70,240,27.63,1512,7.44,2003
+Madhya Pradesh,Soybean,Clay,DAP,78,95,82,80,27.84,996,5.86,2013
+Telangana,Maize,Red Soil,Potash,49,42,184,288,34.89,2768,6.1,2009
+West Bengal,Pulses,Sandy,Organic,113,10,93,276,33.7,789,5.91,2008
+Telangana,Maize,Black Soil,DAP,27,102,82,89,33.33,1496,5.77,2005
+Punjab,Sugarcane,Loamy,Urea,121,41,15,195,21.95,59953,7.59,2008
+Karnataka,Soybean,Sandy,NPK,138,88,45,51,35.45,1166,6.64,2009
+Andhra Pradesh,Rice,Black Soil,Urea,30,40,169,212,27.51,2884,6.61,2019
+Telangana,Rice,Clay,Compost,30,111,165,226,37.46,2539,5.99,2000
+Odisha,Soybean,Clay,Urea,18,62,25,248,22.42,1748,5.51,2010
+Andhra Pradesh,Wheat,Loamy,Potash,123,13,181,183,27.23,4471,6.59,2022
+Haryana,Wheat,Red Soil,Organic,117,100,28,166,30.5,3089,5.67,2021
+Odisha,Wheat,Clay,DAP,122,103,140,61,27.24,4443,5.86,2022
+Telangana,Barley,Sandy,NPK,130,85,65,78,24.18,2392,7.95,2010
+Haryana,Wheat,Clay,Potash,88,11,151,176,37.14,3603,5.82,2018
+Odisha,Soybean,Loamy,Organic,70,26,130,242,18.48,971,7.73,2009
+Maharashtra,Barley,Loamy,DAP,18,103,157,274,24.9,1503,6.84,2020
+Haryana,Soybean,Black Soil,Urea,80,67,172,186,27.07,1644,7.74,2011
+Uttar Pradesh,Barley,Loamy,Organic,31,43,77,124,20.04,2855,7.43,2020
+Gujarat,Wheat,Clay,Compost,71,114,68,195,21.13,3138,7.31,2003
+Kerala,Groundnut,Sandy,Compost,116,52,138,248,25.25,1552,5.67,2012
+Telangana,Barley,Clay,DAP,65,111,22,74,30.33,1950,7.52,2021
+Odisha,Cotton,Clay,Organic,122,116,198,145,35.8,1762,6.0,2020
+Telangana,Groundnut,Clay,Potash,109,112,197,267,36.01,1726,7.37,2005
+Haryana,Groundnut,Red Soil,DAP,100,31,193,219,32.85,1066,6.84,2004
+Karnataka,Cotton,Black Soil,Urea,33,90,43,222,29.88,1598,6.65,2013
+Maharashtra,Maize,Black Soil,Potash,78,37,128,198,28.52,1968,7.02,2005
+Odisha,Soybean,Loamy,DAP,35,8,61,188,24.45,1091,7.0,2022
+Karnataka,Rice,Red Soil,Urea,130,58,134,75,22.38,2333,6.21,2001
+Rajasthan,Groundnut,Red Soil,DAP,120,113,129,275,32.91,1282,5.59,2010
+Telangana,Wheat,Clay,DAP,71,69,70,101,24.17,4257,7.41,2021
+West Bengal,Maize,Loamy,DAP,122,9,27,230,22.56,1316,5.57,2013
+Punjab,Rice,Red Soil,Organic,42,31,19,273,22.71,1889,7.2,2017
+Punjab,Millet,Clay,DAP,135,105,17,286,36.67,898,6.99,2000
+Madhya Pradesh,Maize,Clay,Organic,131,77,192,242,30.43,1933,7.84,2012
+Karnataka,Cotton,Clay,Organic,89,99,49,183,31.84,1689,6.3,2021
+Kerala,Maize,Sandy,DAP,128,90,29,284,32.31,2567,6.2,2023
+West Bengal,Barley,Red Soil,Compost,27,56,163,156,22.6,2956,7.22,2010
+Telangana,Maize,Red Soil,Compost,47,31,144,255,18.82,2113,5.89,2006
+Andhra Pradesh,Wheat,Sandy,Organic,60,28,160,51,24.56,2644,7.07,2016
+Gujarat,Soybean,Sandy,Potash,129,24,104,63,29.52,1437,6.98,2002
+Odisha,Soybean,Loamy,Potash,43,8,13,86,36.5,905,7.35,2024
+Maharashtra,Millet,Loamy,Compost,48,47,120,95,31.09,1477,7.46,2003
+Gujarat,Soybean,Black Soil,Compost,33,71,176,205,20.53,1210,7.45,2007
+Haryana,Pulses,Red Soil,DAP,45,48,143,278,27.24,1227,7.1,2002
+Odisha,Maize,Sandy,NPK,39,30,107,191,24.01,1861,5.6,2016
+Telangana,Barley,Sandy,NPK,98,64,53,209,28.74,1274,5.86,2022
+Haryana,Millet,Loamy,Compost,25,103,168,139,24.68,663,7.61,2017
+Kerala,Maize,Black Soil,DAP,21,27,189,117,18.38,2291,6.01,2002
+Haryana,Sugarcane,Black Soil,Urea,50,10,49,194,33.6,50100,7.12,2010
+Gujarat,Wheat,Red Soil,Potash,61,49,140,168,26.35,4104,7.82,2012
+Karnataka,Millet,Clay,Compost,132,21,101,103,19.52,972,5.77,2017
+Maharashtra,Wheat,Clay,Organic,64,79,120,270,20.53,2881,6.89,2005
+Madhya Pradesh,Millet,Loamy,NPK,33,87,35,217,37.19,705,6.03,2015
+Uttar Pradesh,Cotton,Black Soil,DAP,36,64,99,255,25.62,1788,6.29,2011
+Telangana,Soybean,Red Soil,Potash,29,18,198,236,18.58,1168,6.69,2019
+Bihar,Wheat,Loamy,Potash,87,70,59,73,36.51,3125,6.01,2017
+Andhra Pradesh,Wheat,Sandy,Potash,49,67,96,127,24.78,2028,5.89,2017
+Uttar Pradesh,Pulses,Sandy,Urea,63,114,93,192,33.41,917,6.46,2012
+Rajasthan,Millet,Clay,Organic,57,30,119,126,19.74,1025,6.63,2018
+Telangana,Maize,Clay,Organic,102,25,145,286,27.45,2221,7.79,2000
+Andhra Pradesh,Rice,Clay,DAP,65,118,25,121,37.14,1572,6.78,2017
+Maharashtra,Rice,Clay,Urea,30,80,40,78,18.97,3127,5.52,2006
+Uttar Pradesh,Wheat,Black Soil,Organic,42,64,12,264,34.07,3636,5.61,2009
+Karnataka,Pulses,Black Soil,Organic,76,13,142,297,23.7,1453,7.52,2016
+Uttar Pradesh,Barley,Clay,DAP,54,62,142,50,36.74,2119,6.54,2019
+Rajasthan,Millet,Red Soil,Organic,12,40,90,126,27.21,1430,5.75,2000
+Maharashtra,Soybean,Clay,Potash,87,87,178,237,22.48,1039,7.34,2009
+Odisha,Groundnut,Black Soil,Urea,67,59,33,175,30.37,1476,6.56,2020
+Kerala,Cotton,Loamy,NPK,23,55,98,62,27.46,1066,6.89,2012
+Kerala,Soybean,Clay,Organic,65,32,196,266,30.86,1398,5.83,2021
+Bihar,Groundnut,Sandy,Organic,88,86,117,231,28.21,1153,5.5,2023
+Punjab,Cotton,Red Soil,NPK,45,79,47,167,23.74,1749,7.99,2019
+Punjab,Wheat,Loamy,Potash,23,38,167,72,27.08,2327,7.17,2022
+Bihar,Barley,Red Soil,Potash,114,35,139,115,19.99,1912,5.66,2016
+Maharashtra,Barley,Black Soil,Urea,65,30,12,162,33.7,2473,7.93,2016
+Andhra Pradesh,Groundnut,Sandy,Urea,95,66,76,153,34.55,1596,8.0,2008
+Gujarat,Pulses,Sandy,Urea,90,94,145,190,37.29,871,7.82,2003
+Madhya Pradesh,Cotton,Red Soil,Potash,83,16,96,187,36.43,1677,6.36,2023
+Bihar,Barley,Black Soil,Potash,14,80,23,263,24.02,2726,7.77,2016
+Karnataka,Sugarcane,Sandy,Organic,83,84,172,238,33.6,55971,6.46,2021
+Odisha,Maize,Red Soil,NPK,14,92,106,74,33.56,2769,6.43,2006
+Haryana,Cotton,Black Soil,Organic,82,75,163,181,21.58,1452,7.51,2009
+Maharashtra,Millet,Black Soil,DAP,16,69,12,210,36.15,1380,6.79,2017
+Kerala,Cotton,Black Soil,NPK,44,33,183,237,36.79,1201,6.25,2012
+Punjab,Pulses,Clay,NPK,139,16,152,286,18.47,889,7.79,2018
+Kerala,Sugarcane,Clay,Urea,133,29,14,260,34.28,65528,7.43,2009
+Odisha,Groundnut,Red Soil,Compost,122,32,82,256,34.49,903,7.75,2011
+Karnataka,Maize,Sandy,Compost,32,92,45,185,30.15,1211,6.88,2023
+Bihar,Barley,Clay,Organic,47,109,29,221,30.86,2330,7.94,2021
+Gujarat,Groundnut,Black Soil,Potash,23,94,108,133,23.38,1615,7.16,2003
+West Bengal,Pulses,Red Soil,Urea,24,71,184,60,19.27,1254,5.86,2003
+Haryana,Maize,Sandy,DAP,67,81,17,67,36.35,2119,6.74,2001
+Madhya Pradesh,Cotton,Loamy,Potash,83,88,84,65,37.74,1252,6.58,2018
+Maharashtra,Cotton,Loamy,Potash,86,32,15,120,28.05,1095,7.96,2003
+West Bengal,Maize,Clay,Organic,82,89,47,102,26.71,1053,5.88,2008
+Haryana,Rice,Red Soil,DAP,52,98,27,104,36.31,2082,5.68,2015
+Gujarat,Wheat,Clay,NPK,134,82,138,294,28.37,3317,6.77,2000
+Uttar Pradesh,Maize,Black Soil,Organic,118,78,173,261,29.02,2246,6.93,2004
+Gujarat,Pulses,Sandy,Urea,40,8,53,264,28.93,1178,5.87,2009
+Uttar Pradesh,Sugarcane,Clay,Potash,40,119,97,244,33.55,83779,7.56,2008
+Odisha,Groundnut,Clay,NPK,98,51,42,185,32.83,1054,6.53,2018
+Haryana,Millet,Red Soil,Compost,65,104,69,68,35.59,800,6.56,2007
+Bihar,Sugarcane,Red Soil,Compost,22,116,158,248,31.84,56320,5.91,2013
+West Bengal,Rice,Sandy,Potash,42,99,170,254,22.71,2931,5.57,2015
+Punjab,Soybean,Clay,DAP,45,97,163,236,37.19,1377,6.96,2007
+Kerala,Groundnut,Black Soil,Compost,43,70,92,117,29.68,1637,5.99,2015
+West Bengal,Pulses,Black Soil,Compost,91,111,139,231,23.05,1066,6.22,2003
+West Bengal,Sugarcane,Black Soil,Organic,65,81,174,240,37.62,70296,5.62,2000
+Madhya Pradesh,Rice,Clay,Compost,85,50,119,290,20.77,3301,6.89,2024
+Punjab,Millet,Black Soil,DAP,116,33,186,82,19.8,653,6.33,2000
+Haryana,Rice,Black Soil,DAP,129,93,146,128,32.63,1572,5.58,2005
+Gujarat,Sugarcane,Clay,Urea,139,105,124,214,20.48,67596,5.7,2008
+Madhya Pradesh,Barley,Loamy,DAP,111,21,34,54,35.47,1941,7.79,2009
+Uttar Pradesh,Pulses,Loamy,Organic,50,9,26,184,31.95,1679,7.87,2014
+Bihar,Cotton,Sandy,Urea,87,47,50,109,22.44,1325,7.96,2009
+Maharashtra,Barley,Loamy,Urea,59,94,135,81,31.44,1978,6.81,2004
+Haryana,Sugarcane,Black Soil,Urea,17,90,165,178,25.51,87778,6.74,2024
+Telangana,Pulses,Loamy,NPK,34,114,141,146,34.62,1177,6.95,2024
+Punjab,Millet,Red Soil,Urea,111,86,18,233,22.01,894,7.22,2024
+Andhra Pradesh,Wheat,Red Soil,DAP,100,60,139,105,18.94,2662,6.99,2021
+Madhya Pradesh,Rice,Clay,DAP,97,63,188,165,36.51,2885,6.02,2017
+West Bengal,Millet,Red Soil,NPK,44,34,71,63,25.1,1431,7.56,2003
+Uttar Pradesh,Rice,Red Soil,Potash,94,45,44,189,32.5,3035,7.04,2022
+Rajasthan,Millet,Red Soil,Compost,46,118,30,290,23.17,860,7.47,2023
+Gujarat,Soybean,Loamy,Organic,28,94,117,80,35.35,1883,7.98,2009
+Odisha,Rice,Loamy,Compost,80,12,94,53,18.25,2362,6.07,2003
+Odisha,Sugarcane,Loamy,DAP,62,14,93,282,34.02,76073,5.67,2007
+Rajasthan,Millet,Loamy,Urea,59,63,67,161,22.25,685,6.84,2012
+Uttar Pradesh,Groundnut,Sandy,Potash,72,30,38,166,33.55,1208,6.84,2021
+Tamil Nadu,Barley,Loamy,Potash,35,60,128,72,25.6,2336,5.84,2000
+Odisha,Sugarcane,Sandy,Organic,116,83,43,243,37.71,78692,6.47,2001
+Andhra Pradesh,Soybean,Sandy,Compost,121,103,181,53,18.24,1361,5.68,2019
+Andhra Pradesh,Millet,Red Soil,Compost,95,98,190,299,23.88,773,7.5,2017
+Haryana,Pulses,Loamy,DAP,60,11,23,229,24.21,682,6.8,2011
+Punjab,Cotton,Clay,Organic,134,33,32,126,26.9,895,6.9,2005
+Uttar Pradesh,Rice,Sandy,Organic,69,9,103,249,18.32,1896,7.81,2019
+Tamil Nadu,Soybean,Clay,Organic,64,104,146,185,27.44,1083,7.95,2016
+Bihar,Groundnut,Black Soil,DAP,85,83,177,109,24.24,869,6.52,2000
+Telangana,Maize,Sandy,Organic,28,110,41,221,37.8,2658,5.77,2015
+Karnataka,Soybean,Sandy,NPK,125,10,161,171,33.75,1710,5.52,2012
+Tamil Nadu,Maize,Red Soil,DAP,129,41,160,70,19.37,2537,7.9,2003
+Bihar,Pulses,Clay,Compost,112,77,83,196,18.98,1177,7.97,2014
+Punjab,Pulses,Clay,Urea,15,12,45,245,34.47,1208,7.16,2007
+Uttar Pradesh,Cotton,Clay,Organic,14,90,149,61,29.36,1507,7.95,2001
+Karnataka,Cotton,Black Soil,Urea,122,113,178,274,29.51,1614,7.14,2012
+Tamil Nadu,Wheat,Sandy,Organic,17,85,83,189,33.95,3302,7.08,2001
+Tamil Nadu,Rice,Black Soil,Urea,62,48,61,163,20.01,2002,6.04,2023
+Uttar Pradesh,Barley,Sandy,DAP,127,105,196,112,19.1,1392,5.84,2022
+Odisha,Sugarcane,Loamy,Potash,26,73,177,266,30.22,85046,6.06,2015
+Tamil Nadu,Pulses,Sandy,DAP,41,74,85,108,28.84,1349,7.89,2011
+Karnataka,Pulses,Loamy,DAP,118,75,181,215,24.32,843,7.82,2001
+Haryana,Maize,Black Soil,DAP,128,68,148,65,25.19,1440,6.41,2001
+Tamil Nadu,Rice,Red Soil,Compost,117,94,26,69,30.74,1770,5.9,2014
+Gujarat,Soybean,Loamy,NPK,73,93,89,246,34.83,1013,7.41,2012
+Maharashtra,Millet,Loamy,Potash,21,43,62,75,20.3,866,7.55,2011
+Bihar,Sugarcane,Red Soil,NPK,77,39,65,159,30.82,67394,7.02,2012
+Haryana,Groundnut,Black Soil,DAP,128,47,148,57,28.33,1225,7.35,2023
+Kerala,Sugarcane,Black Soil,Compost,54,14,99,176,31.43,86715,5.6,2016
+Gujarat,Maize,Red Soil,NPK,13,27,23,233,33.7,2888,5.86,2019
+Bihar,Barley,Clay,Potash,76,110,189,143,36.62,2195,5.75,2011
+Tamil Nadu,Wheat,Sandy,Compost,25,49,90,165,25.49,2053,6.0,2005
+Andhra Pradesh,Wheat,Black Soil,Organic,25,64,143,102,20.8,3124,6.5,2020
+Punjab,Soybean,Sandy,Organic,30,72,85,242,27.2,1123,5.95,2002
+Odisha,Maize,Black Soil,Urea,46,64,187,138,33.92,1139,7.18,2020
+West Bengal,Soybean,Red Soil,Organic,93,66,180,91,29.25,1582,5.56,2020
+Bihar,Cotton,Sandy,NPK,132,100,21,265,29.07,866,5.63,2008
+Madhya Pradesh,Wheat,Black Soil,Organic,136,85,107,245,31.73,4374,5.9,2005
+Punjab,Rice,Sandy,NPK,64,6,136,244,26.25,3338,7.03,2007
+Gujarat,Pulses,Clay,Organic,83,106,125,147,29.8,1022,7.21,2023
+Rajasthan,Cotton,Sandy,NPK,60,50,12,142,18.65,845,7.11,2021
+Rajasthan,Soybean,Sandy,DAP,22,30,156,143,19.59,1403,5.9,2012
+Madhya Pradesh,Millet,Black Soil,Urea,45,32,151,107,32.94,620,7.08,2015
+Tamil Nadu,Pulses,Red Soil,DAP,107,84,119,226,28.29,1096,7.08,2020
+Madhya Pradesh,Pulses,Loamy,Organic,133,27,183,121,33.67,1393,6.84,2023
+Karnataka,Soybean,Red Soil,Compost,130,99,168,150,35.6,1281,6.94,2019
+Punjab,Wheat,Sandy,Potash,64,40,88,102,20.66,3816,6.04,2004
+Kerala,Pulses,Red Soil,Compost,65,36,76,224,27.19,1410,6.63,2013
+Rajasthan,Barley,Red Soil,NPK,100,35,126,187,24.02,2916,5.76,2023
+Haryana,Cotton,Sandy,DAP,49,28,38,180,18.05,1409,7.17,2007
+West Bengal,Groundnut,Black Soil,Urea,131,78,104,200,22.49,1839,6.89,2024
+West Bengal,Sugarcane,Loamy,Organic,14,113,167,149,24.97,60483,6.02,2003
+West Bengal,Rice,Black Soil,DAP,97,26,186,297,30.55,2364,6.21,2001
+Tamil Nadu,Rice,Black Soil,Compost,35,103,90,141,20.83,3161,6.46,2006
+Punjab,Rice,Red Soil,Compost,105,47,76,239,19.64,2748,6.99,2004
+Haryana,Maize,Clay,Organic,24,109,67,288,20.54,1223,7.41,2013
+Punjab,Barley,Black Soil,Compost,71,48,183,175,24.49,1856,6.53,2020
+Bihar,Groundnut,Sandy,Potash,134,50,74,222,28.67,1494,6.05,2016
+Bihar,Soybean,Red Soil,DAP,113,39,96,115,28.47,1255,7.39,2009
+West Bengal,Pulses,Red Soil,Urea,26,71,57,207,29.52,1089,5.64,2018
+Kerala,Pulses,Black Soil,Urea,68,7,164,208,18.77,1257,6.54,2009
+Gujarat,Barley,Red Soil,Compost,51,51,12,256,22.26,2323,6.65,2016
+Punjab,Groundnut,Clay,Urea,70,43,81,127,18.02,914,7.5,2001
+Gujarat,Wheat,Black Soil,DAP,24,8,114,151,22.91,3631,7.64,2006
+Punjab,Soybean,Red Soil,NPK,20,107,170,233,31.72,1294,7.25,2012
+Karnataka,Wheat,Red Soil,Organic,39,19,60,290,37.69,2530,6.59,2019
+Uttar Pradesh,Rice,Red Soil,NPK,135,12,194,72,28.95,1581,5.97,2020
+Rajasthan,Groundnut,Red Soil,Urea,10,107,190,61,25.58,1959,6.7,2001
+Haryana,Maize,Clay,Potash,55,70,85,112,19.88,1379,6.56,2016
+Maharashtra,Cotton,Clay,NPK,85,21,107,268,24.11,1226,7.17,2014
+Andhra Pradesh,Wheat,Sandy,DAP,137,5,152,233,23.48,2364,7.49,2014
+Haryana,Rice,Red Soil,Urea,61,108,152,250,24.61,3047,6.3,2001
+Tamil Nadu,Maize,Red Soil,Urea,83,35,150,104,19.5,2218,7.7,2017
+Madhya Pradesh,Wheat,Red Soil,NPK,119,94,134,115,24.91,2634,6.74,2021
+Karnataka,Sugarcane,Loamy,Organic,23,89,42,163,37.25,72119,7.47,2010
+Haryana,Cotton,Sandy,DAP,95,21,118,223,31.68,985,6.5,2022
+Madhya Pradesh,Cotton,Black Soil,Compost,124,104,51,128,18.07,1047,7.07,2012
+West Bengal,Barley,Clay,Urea,72,15,170,238,28.97,2124,6.11,2022
+Andhra Pradesh,Sugarcane,Clay,Potash,72,5,78,285,32.69,67505,6.89,2008
+Andhra Pradesh,Groundnut,Black Soil,Compost,64,13,83,128,31.16,1663,7.2,2009
+Uttar Pradesh,Rice,Red Soil,Organic,41,45,44,299,23.87,3332,6.35,2015
+Rajasthan,Soybean,Black Soil,Potash,113,87,74,171,19.65,820,7.66,2004
+Bihar,Soybean,Black Soil,Urea,113,38,170,267,27.94,913,7.16,2011
+Telangana,Soybean,Black Soil,Organic,86,49,150,208,27.43,1397,7.3,2012
+Haryana,Rice,Clay,Urea,38,78,92,230,29.52,1834,6.28,2000
+Punjab,Sugarcane,Clay,Potash,69,12,103,113,35.03,82852,7.89,2015
+Karnataka,Pulses,Clay,Organic,112,50,98,296,19.72,1415,7.24,2006
+Kerala,Wheat,Clay,Compost,115,36,92,173,31.65,2144,7.7,2000
+Tamil Nadu,Barley,Black Soil,Potash,35,29,158,228,33.27,1372,7.53,2013
+Uttar Pradesh,Rice,Sandy,Organic,101,110,190,164,20.13,2654,6.49,2009
+Odisha,Groundnut,Loamy,Potash,102,50,82,135,19.83,819,7.1,2010
+Karnataka,Wheat,Clay,Compost,34,37,95,185,21.68,2909,6.37,2003
+Gujarat,Maize,Red Soil,NPK,16,54,94,134,18.79,1551,7.96,2022
+Rajasthan,Soybean,Loamy,Compost,117,63,57,277,21.7,1573,6.69,2012
+Telangana,Maize,Loamy,Organic,39,107,195,119,29.16,1120,7.34,2018
+Odisha,Wheat,Black Soil,NPK,124,36,96,243,27.93,2759,7.24,2010
+Rajasthan,Cotton,Black Soil,DAP,134,47,117,277,19.67,1715,5.67,2023
+Uttar Pradesh,Groundnut,Clay,NPK,27,74,144,192,29.9,1560,5.96,2017
+Kerala,Cotton,Sandy,Compost,109,52,30,215,26.06,1644,7.68,2015
+Maharashtra,Wheat,Clay,DAP,53,84,62,77,18.05,3313,5.83,2021
+Rajasthan,Rice,Loamy,NPK,132,112,195,250,30.48,3003,7.03,2007
+Gujarat,Groundnut,Loamy,DAP,103,61,133,62,28.6,1115,7.04,2003
+Gujarat,Pulses,Sandy,Potash,68,47,192,63,35.09,1639,6.04,2017
+Haryana,Millet,Red Soil,Organic,81,114,23,52,25.49,1395,6.52,2018
+Rajasthan,Pulses,Black Soil,NPK,117,82,132,75,23.84,852,7.68,2007
+Punjab,Barley,Clay,NPK,52,88,138,210,26.96,1247,7.96,2012
+Karnataka,Pulses,Red Soil,DAP,108,45,61,245,24.27,1123,5.97,2017
+Rajasthan,Sugarcane,Loamy,Organic,49,97,137,148,27.0,52529,5.62,2013
+Uttar Pradesh,Soybean,Red Soil,Compost,46,61,69,294,20.71,1933,7.02,2002
+Kerala,Cotton,Red Soil,Potash,133,38,177,181,35.69,851,7.67,2000
+Tamil Nadu,Barley,Loamy,NPK,96,84,105,175,31.48,1646,5.86,2014
+Andhra Pradesh,Groundnut,Black Soil,NPK,78,65,135,235,26.59,1701,7.65,2000
+Andhra Pradesh,Pulses,Red Soil,Organic,75,54,129,187,18.94,1584,8.0,2021
+Haryana,Rice,Loamy,Urea,15,76,83,177,21.86,3253,7.34,2022
+Maharashtra,Millet,Clay,DAP,48,78,179,93,34.91,526,7.1,2004
+Andhra Pradesh,Millet,Loamy,Urea,91,54,42,198,35.17,667,6.58,2022
+Rajasthan,Pulses,Sandy,Compost,37,33,45,122,34.28,1414,5.85,2008
+Punjab,Maize,Black Soil,Urea,22,86,187,274,33.53,2702,6.27,2001
+Rajasthan,Barley,Clay,NPK,26,45,179,142,35.26,1284,5.75,2009
+Andhra Pradesh,Groundnut,Sandy,Compost,17,63,173,193,37.22,833,7.85,2006
+Tamil Nadu,Groundnut,Black Soil,Potash,63,78,13,207,34.53,828,6.42,2022
+Andhra Pradesh,Cotton,Loamy,NPK,33,14,85,275,33.03,947,6.48,2005
+Uttar Pradesh,Maize,Black Soil,NPK,83,37,82,293,30.51,2898,5.77,2006
+Madhya Pradesh,Groundnut,Black Soil,DAP,94,52,166,177,32.86,1254,5.52,2020
+Karnataka,Cotton,Black Soil,Compost,69,44,55,223,19.17,1584,6.74,2011
+Maharashtra,Sugarcane,Loamy,Urea,90,102,177,59,22.27,81478,6.86,2015
+Kerala,Sugarcane,Red Soil,Compost,88,104,92,228,25.08,59773,7.72,2006
+Kerala,Groundnut,Red Soil,NPK,49,46,113,117,33.29,1648,5.56,2011
+Haryana,Cotton,Loamy,DAP,15,92,194,151,30.49,1392,6.13,2005
+Maharashtra,Wheat,Sandy,NPK,98,110,13,137,31.27,4151,6.56,2021
+Kerala,Maize,Sandy,Organic,123,63,14,244,34.33,1571,7.95,2002
+Haryana,Sugarcane,Black Soil,Compost,82,34,18,124,27.14,83688,7.5,2020
+Odisha,Rice,Loamy,NPK,125,67,144,211,37.58,1640,7.51,2023
+Kerala,Wheat,Red Soil,Potash,17,77,189,253,37.46,2466,7.9,2014
+Gujarat,Barley,Black Soil,NPK,20,99,141,142,35.06,1630,7.04,2012
+Bihar,Rice,Black Soil,NPK,13,53,95,163,27.51,2603,5.77,2024
+Telangana,Cotton,Red Soil,DAP,66,77,126,205,28.93,1606,6.02,2023
+Bihar,Pulses,Red Soil,NPK,54,31,24,252,31.55,1115,6.27,2000
+Telangana,Sugarcane,Clay,NPK,40,29,50,268,27.85,57690,5.58,2015
+Odisha,Groundnut,Loamy,Potash,82,109,47,169,22.11,968,5.97,2009
+Tamil Nadu,Maize,Sandy,DAP,106,112,141,270,25.5,2119,6.95,2011
+Kerala,Pulses,Sandy,Organic,136,98,144,95,36.86,923,7.43,2011
+Maharashtra,Millet,Red Soil,Organic,52,105,94,111,23.78,593,6.59,2003
+Haryana,Wheat,Loamy,Organic,123,94,189,54,30.84,2798,6.8,2001
+Gujarat,Groundnut,Clay,DAP,19,104,159,93,29.04,1712,7.91,2008
+Odisha,Groundnut,Sandy,Organic,55,107,33,273,26.45,1185,6.97,2000
+Karnataka,Groundnut,Red Soil,DAP,43,31,65,215,37.33,1968,7.41,2018
+Telangana,Millet,Black Soil,Compost,138,37,179,264,25.25,1091,5.68,2022
+Andhra Pradesh,Groundnut,Red Soil,Organic,110,79,143,54,19.8,1051,6.23,2021
+West Bengal,Soybean,Black Soil,Compost,39,107,190,170,21.74,1483,6.85,2023
+Telangana,Soybean,Black Soil,Organic,91,42,149,204,18.57,1852,5.68,2014
+Kerala,Cotton,Clay,Potash,132,82,135,136,29.42,1699,5.95,2009
+Maharashtra,Soybean,Red Soil,Compost,110,104,120,253,22.66,1911,6.59,2008
+Tamil Nadu,Maize,Loamy,Compost,75,81,109,156,23.33,2890,7.05,2019
+Tamil Nadu,Pulses,Clay,Potash,123,51,111,235,19.69,1613,6.64,2016
+Karnataka,Pulses,Sandy,NPK,90,26,25,232,24.48,1799,5.83,2002
+Andhra Pradesh,Millet,Black Soil,Compost,41,8,61,277,31.3,994,7.59,2004
+Kerala,Maize,Loamy,Potash,63,14,151,91,29.82,1849,5.95,2002
+Maharashtra,Pulses,Sandy,Urea,113,47,42,55,25.19,1038,7.11,2002
+Andhra Pradesh,Soybean,Red Soil,Urea,80,65,71,147,27.66,1887,7.81,2014
+Haryana,Barley,Sandy,Compost,37,12,115,102,28.49,1527,7.93,2001
+Uttar Pradesh,Groundnut,Clay,Potash,63,6,112,75,29.61,1551,7.78,2006
+Telangana,Maize,Clay,Compost,56,44,140,244,33.22,1014,6.31,2022
+Telangana,Wheat,Loamy,DAP,107,23,192,108,19.59,2666,7.39,2019
+Andhra Pradesh,Groundnut,Loamy,Compost,34,46,143,185,23.56,1896,6.52,2009
+Uttar Pradesh,Groundnut,Clay,Potash,94,107,72,200,36.25,1098,7.52,2019
+Karnataka,Pulses,Black Soil,Organic,49,66,108,246,30.55,792,5.97,2002
+Telangana,Cotton,Loamy,Urea,34,26,24,67,29.56,1643,6.94,2008
+Kerala,Soybean,Black Soil,Compost,85,42,37,169,26.39,1676,6.91,2002
+Telangana,Pulses,Black Soil,DAP,23,75,68,198,29.4,1578,5.56,2004
+Gujarat,Maize,Black Soil,Compost,97,54,44,266,22.81,2819,6.4,2015
+Uttar Pradesh,Barley,Clay,Urea,67,81,66,260,32.44,2367,7.59,2001
+Karnataka,Cotton,Clay,DAP,38,79,27,129,35.36,1791,6.85,2023
+Punjab,Maize,Black Soil,DAP,65,73,158,259,32.31,1667,6.96,2005
+Andhra Pradesh,Soybean,Loamy,Potash,126,118,197,91,18.17,1100,7.85,2017
+Rajasthan,Millet,Red Soil,DAP,80,106,148,126,24.84,789,7.4,2016
+Uttar Pradesh,Cotton,Red Soil,Organic,57,47,115,299,26.53,941,7.85,2008
+Maharashtra,Cotton,Black Soil,Organic,124,40,24,234,35.58,1072,7.16,2008
+Haryana,Cotton,Loamy,Organic,125,18,143,127,35.29,1169,5.79,2002
+Haryana,Pulses,Black Soil,DAP,121,35,41,177,35.98,1019,5.97,2012
+Telangana,Pulses,Red Soil,Compost,59,39,161,244,26.39,1463,7.02,2023
+Telangana,Soybean,Loamy,Organic,80,108,36,237,36.24,1284,7.46,2017
+Telangana,Pulses,Loamy,DAP,130,76,107,76,18.87,882,5.69,2006
+Andhra Pradesh,Pulses,Sandy,DAP,54,99,96,234,21.73,1032,7.22,2003
+Gujarat,Barley,Red Soil,Potash,27,27,60,201,30.51,1576,7.1,2001
+Kerala,Rice,Sandy,DAP,51,94,194,238,24.69,2389,6.12,2016
+Rajasthan,Cotton,Sandy,Urea,130,66,131,284,31.2,1221,7.69,2000
+Andhra Pradesh,Rice,Red Soil,Urea,33,64,45,53,20.12,1723,6.64,2000
+Kerala,Groundnut,Loamy,Organic,127,71,69,287,22.51,1733,7.9,2023
+Maharashtra,Barley,Clay,Urea,51,108,48,284,30.93,2862,7.25,2004
+Telangana,Pulses,Red Soil,Urea,62,64,30,124,23.5,1183,5.77,2011
+Andhra Pradesh,Cotton,Red Soil,NPK,104,23,88,197,32.24,1003,6.63,2005
+Madhya Pradesh,Cotton,Loamy,NPK,107,36,139,245,34.76,1671,5.97,2001
+Bihar,Wheat,Clay,Potash,75,61,145,88,37.51,3565,6.39,2009
+Karnataka,Sugarcane,Clay,Compost,67,42,29,52,34.87,77924,6.67,2023
+Andhra Pradesh,Cotton,Black Soil,NPK,106,31,122,194,18.39,948,5.65,2009
+Odisha,Rice,Black Soil,Organic,129,57,159,100,35.56,2772,6.88,2003
+Madhya Pradesh,Cotton,Sandy,Organic,44,32,55,235,36.77,1378,6.78,2015
+Bihar,Pulses,Red Soil,Urea,137,19,180,106,28.57,1184,7.72,2020
+Madhya Pradesh,Maize,Loamy,Compost,134,52,145,138,27.3,1693,6.93,2002
+Gujarat,Soybean,Loamy,Urea,101,52,14,120,31.0,1114,6.43,2015
+Madhya Pradesh,Barley,Sandy,DAP,37,84,144,176,19.21,2601,6.61,2010
+Telangana,Maize,Loamy,Compost,61,29,167,276,25.37,1825,6.95,2024
+Rajasthan,Soybean,Clay,Organic,89,118,123,265,23.6,1397,7.65,2020
+Maharashtra,Maize,Sandy,Potash,112,22,157,200,30.21,1803,6.9,2014
+Andhra Pradesh,Pulses,Loamy,DAP,79,29,168,97,20.39,1349,6.8,2001
+Telangana,Pulses,Clay,Urea,115,21,30,75,35.64,1117,6.34,2005
+Punjab,Pulses,Black Soil,Potash,72,39,165,128,35.43,999,6.41,2002
+Telangana,Cotton,Clay,NPK,104,35,50,67,24.92,1340,6.95,2007
+Andhra Pradesh,Barley,Clay,Compost,88,69,149,175,20.34,1523,6.59,2019
+West Bengal,Millet,Sandy,Compost,28,19,138,158,34.19,634,5.63,2022
+Uttar Pradesh,Wheat,Black Soil,Organic,88,78,18,156,26.13,4433,6.64,2000
+Bihar,Soybean,Sandy,Urea,87,34,65,57,28.7,1462,6.24,2000
+Telangana,Barley,Black Soil,NPK,67,59,37,80,37.59,1891,6.05,2002
+Haryana,Maize,Red Soil,Urea,100,8,67,228,27.91,2862,7.38,2012
+Karnataka,Maize,Loamy,Potash,48,35,118,240,21.41,2837,5.73,2000
+Haryana,Cotton,Red Soil,DAP,55,22,96,241,32.38,1629,6.06,2007
+Gujarat,Maize,Clay,NPK,134,107,59,278,20.24,1381,6.28,2001
+Kerala,Wheat,Red Soil,Urea,57,56,165,222,34.98,4375,7.93,2021
+Andhra Pradesh,Wheat,Loamy,Compost,86,15,171,204,31.07,2344,6.04,2003
+Kerala,Rice,Red Soil,NPK,92,62,47,91,27.49,2663,6.51,2016
+Kerala,Sugarcane,Sandy,Organic,133,69,28,294,30.79,54593,6.28,2016
+Punjab,Pulses,Red Soil,NPK,67,115,66,120,36.46,1147,7.33,2010
+Tamil Nadu,Rice,Black Soil,Compost,98,80,160,51,24.92,3436,6.07,2020
+Tamil Nadu,Wheat,Loamy,NPK,55,100,76,156,24.59,3156,7.82,2018
+Bihar,Soybean,Red Soil,Potash,13,54,44,155,32.42,1174,6.29,2003
+West Bengal,Pulses,Black Soil,Organic,32,47,126,174,19.2,1211,5.88,2004
+Haryana,Maize,Loamy,Urea,69,87,195,213,31.96,1181,7.76,2006
+Haryana,Soybean,Black Soil,Compost,99,89,167,185,26.72,1294,5.78,2024
+Maharashtra,Pulses,Loamy,Potash,96,104,15,159,32.56,773,7.36,2018
+Tamil Nadu,Maize,Black Soil,Compost,56,14,198,194,25.67,2856,6.69,2020
+Uttar Pradesh,Soybean,Clay,Compost,138,102,111,128,20.53,1666,6.38,2017
+Haryana,Groundnut,Loamy,Potash,32,102,117,294,36.44,910,7.64,2000
+Telangana,Wheat,Red Soil,Urea,96,19,165,162,19.71,2938,7.74,2010
+Telangana,Millet,Clay,Potash,41,50,184,261,25.63,1348,5.73,2019
+Haryana,Maize,Red Soil,Organic,46,67,109,90,33.86,2807,7.69,2021
+Madhya Pradesh,Millet,Loamy,DAP,114,28,95,166,22.38,886,5.66,2004
+Tamil Nadu,Wheat,Sandy,Compost,68,81,177,61,23.37,2728,5.85,2023
+Andhra Pradesh,Soybean,Red Soil,Compost,28,91,115,215,37.63,1217,6.31,2008
+Telangana,Barley,Black Soil,Urea,51,55,169,276,25.12,1436,6.95,2019
+West Bengal,Cotton,Sandy,DAP,11,66,81,157,37.38,1021,6.79,2012
+Andhra Pradesh,Sugarcane,Sandy,DAP,119,46,181,252,33.51,83485,6.09,2017
+West Bengal,Barley,Loamy,Potash,105,14,55,82,28.28,1314,6.72,2020
+Haryana,Millet,Loamy,Potash,46,67,50,117,28.25,1012,7.18,2006
+Madhya Pradesh,Maize,Black Soil,Urea,60,107,164,89,29.26,1443,6.45,2005
+Tamil Nadu,Barley,Red Soil,Organic,55,54,68,111,19.9,2326,6.03,2023
+Gujarat,Rice,Black Soil,NPK,97,8,133,281,18.55,2485,5.82,2018
+Karnataka,Cotton,Black Soil,DAP,96,90,197,177,26.78,1553,6.69,2017
+Andhra Pradesh,Pulses,Red Soil,NPK,98,60,113,118,22.23,754,6.48,2004
+Punjab,Wheat,Sandy,NPK,98,43,91,65,35.75,2349,7.27,2003
+West Bengal,Millet,Loamy,Urea,126,63,174,94,26.97,713,6.27,2024
+Rajasthan,Rice,Black Soil,Compost,81,86,39,185,20.39,3474,6.48,2024
+Kerala,Maize,Sandy,Urea,122,79,189,99,28.62,2404,5.57,2003
+Telangana,Soybean,Red Soil,NPK,23,40,137,60,24.74,1479,7.15,2000
+Tamil Nadu,Millet,Loamy,Urea,43,97,177,289,31.15,1194,6.31,2011
+Bihar,Barley,Clay,Urea,103,100,168,263,28.68,2409,6.77,2002
+Uttar Pradesh,Pulses,Black Soil,Urea,92,82,159,97,18.89,1001,7.54,2005
+Telangana,Pulses,Red Soil,Urea,102,17,141,72,19.66,622,5.73,2011
+Andhra Pradesh,Sugarcane,Black Soil,Organic,134,56,102,280,36.33,86137,5.74,2005
+Kerala,Sugarcane,Black Soil,Urea,69,86,28,175,27.18,71433,7.74,2010
+Andhra Pradesh,Wheat,Clay,NPK,122,17,171,225,26.65,3243,6.78,2020
+Tamil Nadu,Barley,Clay,Potash,112,10,16,131,29.17,1886,7.23,2020
+Haryana,Rice,Loamy,Potash,17,111,30,267,35.35,3348,6.53,2000
+Uttar Pradesh,Rice,Loamy,Potash,47,119,35,197,25.7,1810,7.88,2017
+Haryana,Cotton,Clay,DAP,15,10,131,244,30.8,990,5.99,2010
+Maharashtra,Pulses,Black Soil,Urea,36,41,167,246,25.47,888,5.58,2018
+Tamil Nadu,Rice,Black Soil,Potash,62,84,98,232,28.49,2980,5.88,2014
+Kerala,Cotton,Loamy,Urea,132,22,122,132,35.22,1402,6.68,2020
+Bihar,Rice,Clay,Urea,114,55,38,121,23.41,2923,5.82,2020
+Odisha,Barley,Red Soil,NPK,109,25,74,227,33.16,2726,6.66,2008
+Andhra Pradesh,Groundnut,Clay,Urea,43,27,74,251,34.22,1652,7.21,2024
+West Bengal,Rice,Clay,NPK,138,36,79,166,23.99,2768,7.02,2022
+Maharashtra,Wheat,Black Soil,Organic,34,17,46,128,19.02,2408,6.98,2004
+Rajasthan,Sugarcane,Clay,Potash,22,54,143,263,22.65,53488,6.6,2015
+Telangana,Cotton,Loamy,Potash,57,93,19,224,30.6,1776,5.59,2016
+West Bengal,Soybean,Clay,Compost,91,68,180,155,35.87,1538,6.01,2001
+Madhya Pradesh,Maize,Loamy,DAP,129,14,40,239,30.1,1313,7.49,2002
+Odisha,Sugarcane,Black Soil,NPK,52,95,65,275,23.8,63509,7.77,2009
+Tamil Nadu,Millet,Black Soil,Potash,49,44,92,245,37.46,1058,7.37,2007
+Tamil Nadu,Soybean,Sandy,NPK,10,94,66,267,19.39,1017,6.28,2023
+West Bengal,Rice,Loamy,Urea,115,32,95,296,19.97,2472,6.09,2011
+Uttar Pradesh,Groundnut,Clay,Organic,84,50,110,112,25.14,1300,6.31,2006
+Punjab,Barley,Clay,Potash,53,52,152,271,29.02,1311,5.52,2019
+Bihar,Groundnut,Black Soil,DAP,31,37,95,119,32.54,1434,7.17,2003
+Odisha,Wheat,Loamy,Organic,32,64,111,85,19.55,3445,7.85,2005
+Punjab,Rice,Clay,NPK,15,39,29,188,34.06,2754,7.98,2001
+West Bengal,Sugarcane,Red Soil,NPK,85,29,28,100,27.7,74422,6.69,2023
+Uttar Pradesh,Rice,Clay,Organic,112,24,121,110,37.58,1839,7.28,2012
+Gujarat,Pulses,Sandy,Potash,63,104,24,171,22.1,874,5.75,2014
+Gujarat,Sugarcane,Clay,Urea,96,112,172,215,21.93,89021,6.52,2011
+Tamil Nadu,Millet,Clay,Organic,71,37,69,55,19.78,594,6.49,2015
+Rajasthan,Maize,Clay,Potash,117,36,35,239,33.33,2137,7.45,2022
+Odisha,Wheat,Clay,Organic,23,82,91,194,35.61,3823,7.59,2006
+Bihar,Cotton,Sandy,Organic,118,35,50,151,20.46,1764,7.99,2008
+Odisha,Sugarcane,Red Soil,NPK,35,61,197,266,37.82,88365,7.28,2016
+West Bengal,Millet,Black Soil,Organic,66,77,73,85,23.23,1318,7.92,2021
+Odisha,Soybean,Clay,NPK,58,47,20,107,29.93,1951,7.51,2012
+Kerala,Wheat,Red Soil,Organic,13,16,44,231,32.93,2078,6.57,2017
+Kerala,Groundnut,Red Soil,Potash,67,117,18,60,22.2,1864,5.65,2012
+Tamil Nadu,Cotton,Black Soil,NPK,82,53,93,132,18.94,1681,6.79,2018
+Rajasthan,Rice,Loamy,DAP,78,105,18,178,19.42,2936,6.06,2005
+Gujarat,Groundnut,Black Soil,Urea,30,14,38,117,27.04,1332,7.36,2020
+Rajasthan,Pulses,Red Soil,NPK,77,76,192,258,29.76,741,7.53,2013
+Andhra Pradesh,Wheat,Loamy,Organic,34,37,79,257,30.69,2794,7.0,2012
+Bihar,Soybean,Sandy,Potash,59,17,175,113,27.02,1927,7.55,2014
+Gujarat,Wheat,Black Soil,Organic,31,49,157,109,22.43,2316,6.59,2009
+Odisha,Groundnut,Sandy,Organic,136,107,82,260,32.5,1972,6.6,2013
+Haryana,Rice,Sandy,NPK,69,36,104,97,33.68,3377,6.21,2002
+Tamil Nadu,Millet,Red Soil,Urea,107,108,70,97,25.25,1394,7.46,2000
+Rajasthan,Rice,Black Soil,Potash,138,21,22,206,28.49,1604,5.68,2021
+Telangana,Wheat,Red Soil,Potash,128,63,86,232,18.5,2625,7.65,2019
+Punjab,Soybean,Loamy,DAP,31,96,182,195,37.33,1856,6.4,2016
+Andhra Pradesh,Millet,Loamy,Organic,103,48,83,154,28.79,1110,6.64,2013
+Tamil Nadu,Cotton,Red Soil,NPK,63,10,113,296,20.74,1672,5.6,2006
+Bihar,Wheat,Clay,Urea,114,106,143,65,28.52,4183,6.09,2006
+Karnataka,Soybean,Clay,Organic,47,29,186,248,28.38,1191,7.83,2001
+Uttar Pradesh,Groundnut,Loamy,DAP,112,115,63,199,29.52,1775,7.47,2023
+Karnataka,Wheat,Clay,Potash,134,84,69,56,18.19,3453,7.66,2008
+Kerala,Barley,Sandy,Compost,34,47,29,157,33.04,1995,6.93,2018
+Bihar,Wheat,Clay,Potash,21,88,44,195,20.42,2579,7.9,2020
+Punjab,Pulses,Black Soil,NPK,130,39,20,214,23.08,1070,7.57,2002
+Odisha,Rice,Clay,Urea,121,74,27,232,21.48,2800,7.47,2005
+Odisha,Wheat,Black Soil,Compost,65,101,68,250,31.51,2223,7.3,2020
+Madhya Pradesh,Millet,Red Soil,Urea,30,26,83,114,33.25,832,6.45,2007
+Kerala,Sugarcane,Black Soil,Potash,41,49,179,257,24.01,82902,7.62,2003
+Telangana,Maize,Loamy,Compost,128,40,135,189,33.34,2205,6.98,2016
+Punjab,Maize,Black Soil,NPK,113,17,143,109,28.32,2452,5.66,2007
+Odisha,Sugarcane,Sandy,Compost,21,111,155,276,28.33,53090,7.37,2001
+Punjab,Wheat,Loamy,Compost,70,40,192,171,24.08,4404,6.41,2018
+Maharashtra,Groundnut,Sandy,Compost,78,114,152,223,19.69,1167,6.74,2024
+Telangana,Cotton,Sandy,Organic,128,38,124,211,36.62,1438,7.92,2007
+Madhya Pradesh,Groundnut,Black Soil,Compost,26,118,69,284,18.13,1700,7.85,2020
+Tamil Nadu,Soybean,Sandy,Potash,60,83,29,126,30.61,1603,7.58,2000
+Gujarat,Cotton,Black Soil,NPK,58,17,78,224,22.75,1333,5.55,2006
+Karnataka,Sugarcane,Sandy,Urea,101,45,94,273,20.01,75646,7.92,2021
+Telangana,Barley,Clay,NPK,20,119,116,151,30.32,1973,7.22,2002
+Andhra Pradesh,Wheat,Clay,Potash,46,104,34,133,29.58,2516,6.13,2010
+Karnataka,Millet,Loamy,NPK,123,71,91,167,26.77,899,6.43,2024
+Bihar,Pulses,Red Soil,NPK,69,58,56,164,30.72,1751,7.86,2014
+Telangana,Rice,Clay,Compost,131,21,125,67,37.73,2512,5.82,2019
+Madhya Pradesh,Wheat,Red Soil,NPK,139,9,125,109,20.51,2817,6.16,2017
+Telangana,Sugarcane,Loamy,Compost,51,92,198,119,36.56,77980,6.94,2005
+Tamil Nadu,Wheat,Clay,Potash,86,56,190,59,30.61,2542,7.07,2013
+Gujarat,Wheat,Red Soil,Compost,104,55,162,251,27.9,3596,6.23,2008
+Maharashtra,Pulses,Clay,Organic,83,61,83,291,19.83,1565,7.07,2010
+Punjab,Rice,Loamy,Compost,23,113,118,155,32.36,1745,7.22,2016
+Madhya Pradesh,Groundnut,Sandy,Potash,69,47,178,207,37.81,821,5.94,2022
+Andhra Pradesh,Pulses,Black Soil,NPK,50,55,115,119,22.07,824,6.5,2017
+Uttar Pradesh,Sugarcane,Clay,Urea,123,5,99,206,21.73,84803,5.52,2024
+Madhya Pradesh,Cotton,Black Soil,Organic,34,35,27,251,30.1,1409,7.89,2017
+Andhra Pradesh,Barley,Loamy,Potash,27,48,91,273,37.39,2786,6.75,2001
+Rajasthan,Cotton,Black Soil,DAP,78,72,149,65,34.77,865,6.2,2003
+Uttar Pradesh,Barley,Red Soil,Compost,62,85,134,198,18.1,2207,7.21,2004
+Kerala,Pulses,Black Soil,NPK,101,70,36,297,20.53,1517,6.61,2022
+Maharashtra,Sugarcane,Clay,Urea,37,116,46,281,36.09,85438,6.21,2003
+Haryana,Maize,Red Soil,Compost,45,66,183,264,19.03,2701,7.7,2006
+Rajasthan,Soybean,Black Soil,Compost,12,24,144,130,27.03,1522,7.09,2003
+Punjab,Millet,Loamy,Compost,114,39,19,158,37.94,932,6.02,2021
+Kerala,Groundnut,Red Soil,Compost,121,102,94,169,26.63,950,5.88,2024
+Bihar,Rice,Clay,Urea,38,7,197,231,31.19,1949,7.27,2013
+Telangana,Maize,Red Soil,Organic,96,37,87,128,26.27,2156,7.69,2003
+Gujarat,Barley,Clay,Potash,50,62,123,163,24.75,2243,6.14,2019
+Andhra Pradesh,Rice,Sandy,DAP,39,98,44,164,21.57,2547,7.12,2002
+Andhra Pradesh,Soybean,Loamy,Organic,136,49,51,134,28.58,1744,7.81,2017
+West Bengal,Sugarcane,Sandy,Organic,67,119,50,166,19.87,59663,7.38,2009
+Andhra Pradesh,Millet,Sandy,Urea,31,77,15,184,27.4,1399,5.6,2007
+West Bengal,Soybean,Sandy,DAP,20,34,189,73,22.34,856,7.18,2015
+Rajasthan,Maize,Loamy,Potash,40,20,27,251,34.02,2656,6.73,2022
+Gujarat,Groundnut,Red Soil,Potash,41,54,170,287,19.96,1246,5.96,2017
+Telangana,Rice,Loamy,Potash,79,23,18,145,28.49,2430,7.08,2014
+West Bengal,Groundnut,Red Soil,NPK,101,62,35,191,33.61,1711,5.54,2008
+Rajasthan,Soybean,Black Soil,Organic,98,104,57,59,26.29,1683,6.9,2020
+Uttar Pradesh,Soybean,Sandy,Compost,24,6,58,282,23.07,1589,6.06,2005
+Telangana,Cotton,Black Soil,Compost,43,114,143,215,18.36,1363,7.21,2016
+Punjab,Wheat,Red Soil,Urea,93,69,135,232,30.87,2395,5.55,2012
+Odisha,Pulses,Black Soil,NPK,122,56,11,229,31.55,1769,6.08,2022
+Rajasthan,Maize,Loamy,Urea,21,104,94,276,36.16,1279,6.28,2018
+Bihar,Millet,Clay,Organic,124,17,28,293,31.21,881,5.67,2004
+Andhra Pradesh,Groundnut,Sandy,Urea,94,42,97,278,34.89,1922,5.56,2000
+Tamil Nadu,Barley,Loamy,Urea,26,10,20,245,26.34,1670,6.32,2009
+West Bengal,Cotton,Black Soil,Compost,64,40,79,100,32.27,1218,7.81,2004
+Andhra Pradesh,Groundnut,Red Soil,Organic,136,58,64,81,34.58,849,5.69,2017
+Andhra Pradesh,Millet,Clay,NPK,12,61,67,168,22.98,1183,6.58,2014
+Uttar Pradesh,Wheat,Clay,Potash,45,102,153,92,36.77,4432,7.03,2011
+Bihar,Rice,Red Soil,Compost,122,68,35,180,22.96,1879,5.86,2019
+Madhya Pradesh,Barley,Black Soil,Urea,102,102,116,187,35.46,2806,6.46,2015
+Uttar Pradesh,Groundnut,Black Soil,Compost,103,7,144,113,21.76,1299,6.71,2007
+Kerala,Wheat,Black Soil,Potash,32,71,161,228,30.28,4205,5.69,2005
+Gujarat,Sugarcane,Sandy,Organic,89,8,138,101,27.19,69992,6.72,2014
+Bihar,Groundnut,Loamy,Compost,139,96,53,278,23.99,1202,6.05,2018
+Telangana,Pulses,Black Soil,Organic,43,87,140,128,36.93,958,5.83,2008
+Odisha,Soybean,Clay,Potash,72,90,189,238,36.6,825,6.58,2022
+Odisha,Soybean,Clay,Potash,91,29,154,77,22.31,1571,6.71,2011
+Punjab,Rice,Sandy,Potash,45,23,27,172,25.18,2957,5.51,2003
+Madhya Pradesh,Wheat,Clay,DAP,32,25,136,113,22.51,2948,5.54,2020
+Uttar Pradesh,Barley,Black Soil,NPK,56,82,159,201,37.06,1521,7.67,2009
+Karnataka,Cotton,Red Soil,Urea,105,48,153,128,30.67,1291,7.14,2000
+Telangana,Barley,Clay,Urea,108,101,119,250,24.31,2811,7.59,2017
+Bihar,Cotton,Loamy,Urea,73,99,158,265,27.45,1397,6.51,2013
+Andhra Pradesh,Barley,Sandy,Potash,113,65,153,165,29.67,1632,6.79,2019
+Gujarat,Rice,Clay,Urea,56,52,193,161,34.87,3364,5.52,2024
+Uttar Pradesh,Cotton,Red Soil,NPK,107,115,67,84,23.04,1092,7.88,2016
+Gujarat,Cotton,Sandy,Compost,27,66,127,71,29.96,932,5.64,2003
+Kerala,Cotton,Clay,Organic,60,116,40,287,27.15,1623,7.14,2021
+Maharashtra,Sugarcane,Black Soil,Urea,76,69,51,145,24.6,72211,5.81,2003
+Maharashtra,Pulses,Clay,Organic,122,105,160,68,33.48,780,7.42,2014
+Uttar Pradesh,Groundnut,Clay,Potash,57,108,68,108,34.87,1908,5.92,2021
+Telangana,Millet,Sandy,DAP,129,106,184,153,30.99,678,6.85,2013
+Madhya Pradesh,Cotton,Black Soil,NPK,111,49,70,169,19.78,856,7.94,2005
+Odisha,Cotton,Loamy,DAP,88,81,175,220,21.66,1545,7.57,2002
+Haryana,Wheat,Clay,Organic,67,102,127,224,21.11,2538,6.24,2008
+Punjab,Millet,Clay,Urea,27,83,118,108,30.96,773,7.36,2010
+Uttar Pradesh,Barley,Sandy,Compost,135,51,95,231,21.98,2985,6.32,2024
+Punjab,Groundnut,Black Soil,Urea,134,77,176,213,37.75,1357,6.78,2015
+Telangana,Rice,Red Soil,DAP,24,48,114,125,22.59,1736,6.15,2024
+West Bengal,Soybean,Sandy,DAP,29,35,79,293,28.59,1538,7.04,2020
+Andhra Pradesh,Sugarcane,Loamy,Compost,81,21,134,276,31.84,75189,7.37,2024
+Tamil Nadu,Cotton,Red Soil,Organic,72,94,73,114,34.61,1189,7.5,2003
+Kerala,Maize,Black Soil,Compost,27,19,145,249,35.34,2455,6.41,2020
+Tamil Nadu,Pulses,Sandy,Urea,69,19,198,185,37.38,802,7.21,2017
+Andhra Pradesh,Maize,Sandy,DAP,85,118,38,265,23.17,1416,7.59,2003
+Haryana,Soybean,Clay,Urea,116,25,59,245,19.76,1972,7.97,2019
+Bihar,Millet,Black Soil,Organic,123,83,75,65,33.82,1261,6.38,2015
+Bihar,Millet,Red Soil,Organic,64,50,140,82,32.98,1106,6.14,2008
+Madhya Pradesh,Pulses,Clay,Organic,125,93,11,55,28.23,1437,7.87,2015
+Haryana,Barley,Black Soil,Compost,102,11,165,284,21.69,2190,7.24,2008
+Maharashtra,Cotton,Loamy,Organic,135,92,192,203,19.54,1483,5.82,2011
+Karnataka,Sugarcane,Sandy,Urea,103,13,174,263,31.66,82758,5.72,2007
+Bihar,Maize,Red Soil,Compost,15,35,43,145,33.9,2714,5.96,2021
+Odisha,Millet,Black Soil,NPK,82,45,191,53,25.08,585,6.91,2009
+Tamil Nadu,Groundnut,Clay,DAP,26,22,16,273,26.33,1219,7.44,2007
+Tamil Nadu,Rice,Red Soil,Urea,108,113,132,261,30.53,3280,6.73,2015
+Rajasthan,Millet,Clay,Potash,98,22,181,122,29.67,979,6.67,2017
+Odisha,Pulses,Clay,Compost,114,8,128,262,35.31,1334,6.79,2023
+Telangana,Soybean,Loamy,Potash,45,73,18,250,33.98,1682,6.88,2001
+Haryana,Soybean,Loamy,Urea,104,24,106,98,32.73,995,5.79,2014
+Rajasthan,Millet,Sandy,Potash,50,34,39,172,30.91,892,5.6,2020
+Madhya Pradesh,Soybean,Clay,NPK,41,19,52,261,28.07,1029,7.07,2011
+Punjab,Soybean,Red Soil,DAP,59,49,25,239,21.86,1839,5.89,2008
+Madhya Pradesh,Rice,Loamy,NPK,97,105,114,236,23.81,1809,7.27,2021
+Maharashtra,Soybean,Sandy,Potash,15,31,177,78,26.47,1489,6.25,2011
+Kerala,Maize,Clay,Compost,124,62,53,92,24.38,2286,5.71,2010
+Telangana,Soybean,Sandy,DAP,96,46,140,150,23.78,1675,6.15,2009
+West Bengal,Maize,Clay,DAP,79,60,172,249,19.66,1252,5.78,2024
+Odisha,Barley,Clay,Compost,117,84,41,235,19.99,2176,7.84,2013
+Haryana,Barley,Red Soil,Urea,105,99,104,200,26.08,2951,7.65,2001
+West Bengal,Rice,Black Soil,Potash,105,11,110,155,33.19,1732,5.89,2023
+Gujarat,Wheat,Clay,Potash,14,92,69,162,21.44,4216,7.3,2002
+Punjab,Millet,Clay,Compost,34,12,177,113,36.34,1044,6.67,2001
+Haryana,Soybean,Loamy,NPK,42,27,111,218,21.46,961,6.36,2000
+Tamil Nadu,Rice,Clay,Urea,117,33,107,55,18.22,2120,7.37,2018
+Maharashtra,Groundnut,Black Soil,DAP,28,6,101,90,22.5,811,6.11,2000
+Bihar,Rice,Sandy,Urea,85,61,34,86,36.12,2404,6.31,2010
+Telangana,Barley,Black Soil,Organic,18,36,151,273,27.73,2806,7.61,2000
+Andhra Pradesh,Barley,Loamy,Organic,33,101,108,184,24.9,1700,7.87,2021
+Telangana,Millet,Clay,NPK,67,102,119,161,24.05,735,7.66,2006
+Madhya Pradesh,Rice,Clay,Compost,22,36,72,60,18.38,1941,5.85,2020
+West Bengal,Groundnut,Red Soil,NPK,125,106,116,91,23.83,1006,6.04,2001
+Rajasthan,Groundnut,Clay,Potash,51,97,89,293,19.39,1452,7.24,2004
+Tamil Nadu,Pulses,Loamy,DAP,24,63,43,119,31.84,800,5.83,2012
+Haryana,Sugarcane,Red Soil,Compost,74,90,98,232,35.82,88561,5.67,2015
+Odisha,Groundnut,Sandy,Potash,118,35,98,197,22.58,1434,7.28,2014
+Karnataka,Soybean,Red Soil,DAP,124,107,123,248,36.23,1457,7.01,2023
+Telangana,Sugarcane,Clay,Compost,138,109,155,54,36.32,50404,7.82,2003
+Bihar,Sugarcane,Red Soil,DAP,111,73,33,237,37.3,61541,7.14,2013
+Tamil Nadu,Wheat,Black Soil,DAP,69,18,74,179,37.3,3480,7.32,2012
+West Bengal,Cotton,Clay,Organic,44,34,107,290,33.29,1543,6.47,2004
+Punjab,Wheat,Clay,Urea,29,60,80,94,34.18,2891,6.28,2004
+Karnataka,Rice,Sandy,Organic,81,63,196,268,25.78,1741,6.55,2013
+Maharashtra,Cotton,Black Soil,Organic,131,109,11,80,34.7,1158,7.09,2022
+Punjab,Soybean,Clay,Urea,34,77,84,292,27.49,1593,6.45,2010
+Uttar Pradesh,Pulses,Sandy,Organic,67,59,97,119,36.6,1212,7.51,2008
+Kerala,Sugarcane,Sandy,Potash,45,93,125,76,23.11,71565,5.91,2020
+Gujarat,Cotton,Black Soil,Urea,78,85,66,196,18.58,1252,5.5,2012
+Karnataka,Cotton,Red Soil,Potash,122,63,41,95,20.78,1228,5.73,2002
+Bihar,Soybean,Black Soil,NPK,137,101,73,195,25.39,1236,7.73,2018
+Odisha,Pulses,Black Soil,Organic,77,78,125,273,37.96,1358,7.48,2022
+Madhya Pradesh,Pulses,Black Soil,Urea,67,6,17,198,28.99,1590,5.78,2024
+Tamil Nadu,Millet,Black Soil,DAP,137,15,37,213,19.33,1339,7.64,2010
+Rajasthan,Pulses,Red Soil,Urea,37,22,147,298,26.56,1257,6.87,2000
+Telangana,Cotton,Black Soil,NPK,82,15,25,124,35.55,1127,6.03,2019
+Odisha,Rice,Black Soil,Potash,33,116,172,295,34.28,2798,7.54,2019
+Karnataka,Maize,Red Soil,Potash,24,41,81,114,29.72,1207,6.41,2003
+Telangana,Rice,Loamy,Compost,67,108,150,293,28.15,1581,5.69,2015
+Kerala,Sugarcane,Red Soil,Compost,106,117,149,221,24.03,66713,7.12,2006
+Karnataka,Maize,Loamy,Urea,58,40,52,92,30.92,1129,6.35,2010
+Gujarat,Sugarcane,Clay,Urea,127,109,140,226,24.37,53879,6.39,2015
+West Bengal,Cotton,Red Soil,Urea,48,34,156,85,25.66,1162,7.34,2022
+Odisha,Cotton,Clay,Urea,123,20,45,82,26.3,1190,7.34,2020
+Uttar Pradesh,Millet,Loamy,NPK,99,92,79,177,29.65,862,6.52,2002
+Odisha,Cotton,Red Soil,NPK,103,73,23,107,28.13,1117,7.48,2019
+Bihar,Barley,Black Soil,Urea,136,115,11,298,28.22,1200,7.13,2021
+Maharashtra,Rice,Red Soil,Urea,84,18,176,255,23.33,2822,7.73,2009
+Telangana,Sugarcane,Black Soil,Urea,102,76,17,114,24.24,81203,5.95,2024
+Haryana,Groundnut,Sandy,Urea,34,102,176,297,24.84,1770,7.89,2017
+Andhra Pradesh,Sugarcane,Loamy,DAP,61,77,160,109,37.39,70972,7.32,2004
+Gujarat,Cotton,Red Soil,Potash,121,96,89,76,36.72,1542,5.8,2016
+Odisha,Barley,Loamy,Compost,71,31,183,156,37.05,1665,7.7,2010
+Rajasthan,Sugarcane,Loamy,Urea,52,97,11,123,29.74,82383,6.5,2005
+Punjab,Millet,Black Soil,Compost,18,119,86,224,22.05,573,7.66,2015
+Bihar,Maize,Black Soil,DAP,53,51,146,203,32.52,2119,7.86,2005
+Madhya Pradesh,Rice,Sandy,DAP,37,52,101,261,35.26,3007,6.39,2011
+West Bengal,Soybean,Loamy,Compost,28,116,150,241,21.44,1966,6.97,2011
+Uttar Pradesh,Pulses,Sandy,NPK,19,39,66,70,20.98,1758,5.85,2021
+Tamil Nadu,Cotton,Clay,Compost,111,87,89,223,35.84,1456,7.54,2022
+Tamil Nadu,Sugarcane,Loamy,Organic,83,84,76,60,24.86,89382,5.67,2005
+Odisha,Millet,Clay,NPK,13,49,107,154,20.93,1335,7.1,2007
+Punjab,Cotton,Clay,Urea,95,87,120,252,27.56,1618,7.61,2006
+Telangana,Maize,Black Soil,Organic,134,13,131,51,20.39,1534,7.09,2012
+Haryana,Groundnut,Black Soil,DAP,34,85,72,258,24.84,1369,6.66,2011
+Kerala,Wheat,Loamy,Urea,61,20,154,143,24.63,4494,6.28,2003
+Uttar Pradesh,Wheat,Sandy,Potash,131,74,16,229,22.81,2728,6.54,2002
+Tamil Nadu,Millet,Loamy,Compost,96,13,12,161,35.62,621,7.45,2024
+Punjab,Sugarcane,Clay,Compost,80,89,93,70,33.21,65371,6.7,2014
+Bihar,Millet,Red Soil,Compost,22,107,134,57,32.52,713,7.57,2024
+Tamil Nadu,Soybean,Black Soil,Urea,117,59,185,129,23.69,1640,5.61,2009
+Uttar Pradesh,Rice,Sandy,DAP,93,62,82,156,27.56,3217,7.97,2007
+Telangana,Wheat,Clay,NPK,135,9,101,204,29.43,3132,7.8,2017
+Kerala,Groundnut,Sandy,NPK,63,69,149,220,36.39,1550,6.29,2009
+Haryana,Groundnut,Clay,DAP,114,31,192,283,28.02,1574,7.77,2018
+Madhya Pradesh,Groundnut,Clay,NPK,44,22,166,257,25.58,1580,6.33,2002
+Odisha,Wheat,Red Soil,Compost,122,21,40,80,19.56,2818,7.5,2022
+Tamil Nadu,Millet,Red Soil,Organic,124,21,186,80,35.53,1066,5.68,2024
+Rajasthan,Wheat,Black Soil,Compost,135,116,192,126,29.12,2357,7.55,2012
+Tamil Nadu,Pulses,Clay,NPK,139,57,62,264,32.16,648,7.87,2024
+Gujarat,Millet,Sandy,DAP,35,68,83,283,23.14,1133,6.86,2019
+Haryana,Barley,Red Soil,DAP,58,28,183,177,34.31,1571,7.65,2023
+Andhra Pradesh,Pulses,Loamy,Potash,29,20,150,103,28.58,1345,5.63,2016
+Tamil Nadu,Cotton,Loamy,Organic,35,40,156,109,37.6,892,7.73,2024
+Andhra Pradesh,Groundnut,Sandy,NPK,98,11,21,173,33.8,1089,7.53,2005
+Tamil Nadu,Rice,Sandy,DAP,96,101,99,91,32.2,2366,6.31,2007
+Telangana,Soybean,Loamy,Potash,118,112,51,214,25.44,879,7.39,2016
+Telangana,Pulses,Red Soil,DAP,100,107,25,230,35.03,853,6.87,2004
+Uttar Pradesh,Cotton,Loamy,Compost,27,34,66,282,26.94,1328,7.58,2021
+Haryana,Maize,Red Soil,NPK,89,41,79,247,29.61,1629,6.09,2020
+Bihar,Cotton,Sandy,Potash,51,77,44,193,26.84,1582,6.05,2024
+Kerala,Wheat,Black Soil,DAP,44,33,130,56,31.86,3879,6.84,2004
+Bihar,Maize,Black Soil,NPK,49,17,90,282,34.19,2707,7.66,2016
+Madhya Pradesh,Wheat,Loamy,Potash,96,63,117,167,34.35,4295,5.56,2003
+Madhya Pradesh,Soybean,Red Soil,NPK,16,79,53,237,33.31,1749,6.88,2020
+Karnataka,Rice,Black Soil,NPK,94,28,91,143,21.51,3373,6.48,2014
+Gujarat,Maize,Red Soil,NPK,19,6,159,231,31.16,1468,6.61,2002
+West Bengal,Groundnut,Sandy,Organic,84,15,40,180,26.22,1192,7.03,2014
+Haryana,Wheat,Clay,NPK,92,25,30,55,23.38,2255,5.64,2020
+Uttar Pradesh,Millet,Sandy,DAP,60,55,161,73,18.97,608,5.83,2023
+Rajasthan,Soybean,Red Soil,Organic,22,90,51,155,24.98,852,5.7,2009
+West Bengal,Soybean,Red Soil,Compost,63,73,86,150,18.96,1848,7.54,2001
+Karnataka,Soybean,Black Soil,Organic,83,45,69,196,26.05,1542,5.58,2005
+Gujarat,Wheat,Red Soil,Organic,76,23,61,285,20.66,3961,6.9,2023
+Bihar,Pulses,Sandy,Organic,52,113,63,123,25.42,1013,6.85,2014
+Gujarat,Pulses,Red Soil,Compost,13,41,91,217,33.79,901,5.73,2002
+Maharashtra,Millet,Red Soil,NPK,14,96,45,257,34.15,1238,7.55,2014
+Rajasthan,Maize,Clay,Urea,86,36,151,130,30.58,2038,6.56,2004
+Haryana,Wheat,Red Soil,NPK,59,13,156,282,29.92,2151,7.47,2020
+Punjab,Sugarcane,Red Soil,NPK,28,115,136,165,20.57,75708,7.97,2004
+Madhya Pradesh,Wheat,Loamy,Compost,84,25,88,97,21.13,3904,6.2,2005
+Punjab,Millet,Red Soil,Urea,98,15,100,93,27.96,1191,6.8,2014
+Uttar Pradesh,Maize,Sandy,Compost,135,119,21,147,24.33,2295,6.4,2020
+Andhra Pradesh,Pulses,Loamy,Urea,119,103,71,163,24.66,1244,6.75,2009
+Rajasthan,Cotton,Sandy,Urea,40,104,79,268,22.64,1013,7.4,2004
+Maharashtra,Groundnut,Sandy,Potash,31,116,67,70,23.27,1393,6.27,2004
+Tamil Nadu,Wheat,Red Soil,Compost,39,17,108,274,31.85,3779,6.9,2001
+Kerala,Pulses,Sandy,Compost,11,18,140,235,27.08,966,5.91,2013
+Rajasthan,Sugarcane,Black Soil,DAP,72,101,128,172,35.95,84898,6.72,2010
+Gujarat,Millet,Black Soil,Organic,53,64,27,86,22.82,853,5.64,2011
+Punjab,Barley,Clay,Compost,122,89,117,122,18.25,2216,6.2,2009
+Gujarat,Groundnut,Sandy,Organic,124,74,111,180,33.37,1403,5.79,2012
+West Bengal,Millet,Black Soil,Potash,96,61,145,279,26.8,710,6.84,2009
+Tamil Nadu,Groundnut,Sandy,Urea,116,98,117,136,30.09,918,5.75,2011
+Kerala,Sugarcane,Black Soil,Compost,83,19,83,76,32.12,60364,6.46,2011
+Kerala,Barley,Red Soil,Compost,55,118,162,290,22.16,1965,6.74,2009
+Karnataka,Groundnut,Black Soil,NPK,96,38,162,265,28.79,1492,7.05,2024
+Punjab,Soybean,Sandy,Urea,28,56,102,67,35.73,847,7.49,2021
+Madhya Pradesh,Barley,Red Soil,Compost,62,24,198,162,27.39,2734,7.09,2014
+Madhya Pradesh,Pulses,Red Soil,DAP,39,60,65,124,33.43,713,5.87,2011
+Karnataka,Cotton,Red Soil,Potash,92,118,28,161,35.09,964,5.54,2012
+Haryana,Groundnut,Sandy,Organic,49,75,166,57,21.0,1573,7.82,2018
+Gujarat,Wheat,Black Soil,Compost,113,6,46,197,32.42,2436,7.24,2010
+West Bengal,Cotton,Sandy,NPK,78,112,47,155,23.52,1660,6.78,2018
+Rajasthan,Maize,Loamy,Organic,95,87,83,242,21.69,2248,7.14,2013
+Uttar Pradesh,Pulses,Black Soil,Potash,75,33,64,172,18.69,1276,7.27,2022
+Madhya Pradesh,Wheat,Clay,Compost,75,76,112,129,22.83,4254,7.04,2003
+Kerala,Soybean,Red Soil,NPK,36,83,32,157,37.37,1136,7.99,2015
+Kerala,Groundnut,Sandy,Potash,138,111,182,255,21.38,1381,6.21,2000
+West Bengal,Soybean,Sandy,Potash,36,57,30,204,35.0,1947,6.23,2011
+Odisha,Cotton,Black Soil,Urea,122,37,99,252,37.42,959,7.05,2011
+Andhra Pradesh,Maize,Loamy,NPK,136,65,43,275,18.13,1453,6.85,2005
+Odisha,Cotton,Black Soil,Potash,59,35,75,248,19.73,1230,7.53,2004
+Gujarat,Cotton,Loamy,Organic,81,92,57,145,22.48,1415,6.48,2020
+Odisha,Wheat,Clay,Organic,89,47,157,287,20.26,3110,6.13,2000
+Gujarat,Millet,Red Soil,DAP,130,55,121,173,22.26,1029,7.7,2006
+West Bengal,Groundnut,Sandy,DAP,135,42,43,275,30.69,1107,6.4,2007
+Gujarat,Wheat,Black Soil,Compost,27,47,21,278,32.35,3145,6.51,2019
+Tamil Nadu,Wheat,Black Soil,Compost,93,64,193,262,20.37,3362,7.17,2012
+Madhya Pradesh,Groundnut,Black Soil,Potash,45,100,166,276,34.05,1558,6.44,2020
+Kerala,Wheat,Sandy,Compost,138,71,129,167,28.85,2657,6.12,2004
+Madhya Pradesh,Rice,Black Soil,Compost,18,102,156,292,36.16,3003,6.11,2011
+Madhya Pradesh,Maize,Sandy,Potash,139,91,170,117,18.96,1182,5.83,2001
+Telangana,Millet,Loamy,DAP,82,76,171,84,33.44,811,6.8,2008
+Punjab,Maize,Loamy,DAP,59,41,113,214,36.62,1725,5.82,2024
+Tamil Nadu,Barley,Clay,NPK,23,92,14,205,32.88,1234,6.17,2022
+Haryana,Rice,Clay,Organic,86,34,64,84,19.5,2718,6.59,2015
+Gujarat,Rice,Black Soil,Compost,48,69,120,194,20.91,1853,7.49,2015
+Karnataka,Pulses,Clay,Potash,82,88,60,261,31.0,1453,7.64,2017
+Bihar,Pulses,Loamy,Urea,122,66,36,107,28.13,982,6.62,2017
+Uttar Pradesh,Pulses,Loamy,Organic,120,111,88,298,34.11,1484,7.16,2019
+Odisha,Barley,Red Soil,Potash,64,6,64,137,24.88,1379,6.39,2018
+Haryana,Groundnut,Black Soil,DAP,134,59,96,54,19.58,1629,7.16,2004
+Kerala,Maize,Sandy,Organic,29,95,32,230,29.73,1967,5.83,2009
+Madhya Pradesh,Cotton,Black Soil,Urea,93,15,19,219,33.13,1606,5.87,2008
+West Bengal,Wheat,Black Soil,Compost,17,83,121,176,26.46,2299,5.64,2015
+Rajasthan,Maize,Red Soil,DAP,118,102,83,64,25.53,2699,5.99,2012
+West Bengal,Millet,Loamy,NPK,137,50,87,57,37.67,747,7.71,2016
+Punjab,Cotton,Clay,DAP,118,20,175,262,21.2,1145,6.82,2019
+Madhya Pradesh,Groundnut,Sandy,NPK,97,10,61,229,32.55,1328,6.87,2024
+Punjab,Rice,Loamy,DAP,59,104,91,213,37.85,1811,7.33,2004
+Tamil Nadu,Wheat,Red Soil,Organic,78,11,178,261,30.58,2119,6.2,2008
+Punjab,Wheat,Loamy,Potash,79,16,176,282,25.87,3015,6.55,2022
+Telangana,Maize,Sandy,Compost,50,18,65,193,26.01,1227,5.56,2019
+Odisha,Rice,Sandy,DAP,122,14,158,110,25.46,2271,7.33,2000
+Haryana,Soybean,Clay,DAP,11,9,92,284,21.69,943,6.35,2016
+Odisha,Sugarcane,Red Soil,Organic,131,20,118,155,18.98,68079,6.57,2021
+Gujarat,Wheat,Clay,Compost,103,66,153,165,27.08,3007,5.6,2024
+Andhra Pradesh,Maize,Clay,Urea,25,13,164,258,25.14,1815,7.21,2016
+Rajasthan,Maize,Red Soil,Urea,18,106,29,275,18.67,2094,7.54,2004
+Tamil Nadu,Cotton,Clay,DAP,35,97,185,225,23.99,1724,5.71,2008
+Karnataka,Pulses,Loamy,Compost,64,42,17,159,36.34,669,7.19,2024
+Karnataka,Groundnut,Sandy,Potash,79,114,136,224,22.36,1559,6.65,2017
+Odisha,Millet,Sandy,Potash,113,117,26,272,28.15,684,6.53,2006
+Maharashtra,Soybean,Black Soil,Potash,127,88,110,224,29.62,1748,5.59,2001
+Odisha,Cotton,Black Soil,Organic,27,13,10,61,26.6,1004,5.52,2018
+Uttar Pradesh,Pulses,Loamy,DAP,30,93,70,216,28.25,1200,6.77,2003
+Punjab,Millet,Loamy,Potash,30,72,122,165,33.69,642,7.07,2021
+Rajasthan,Groundnut,Sandy,Urea,41,83,85,143,19.46,1466,5.82,2007
+Tamil Nadu,Sugarcane,Clay,Urea,114,75,18,177,20.22,84521,5.52,2018
+Kerala,Barley,Red Soil,Urea,120,80,24,62,24.16,2744,7.69,2017
+Punjab,Barley,Red Soil,DAP,16,32,146,63,28.83,2919,5.58,2017
+Haryana,Maize,Clay,Urea,105,40,69,149,37.44,1238,5.59,2001
+Rajasthan,Sugarcane,Red Soil,NPK,22,108,96,65,36.4,87250,7.08,2024
+Tamil Nadu,Cotton,Loamy,DAP,113,115,50,261,22.69,1727,7.57,2014
+Kerala,Cotton,Clay,Urea,29,25,174,94,20.78,1606,7.06,2007
+Maharashtra,Maize,Black Soil,DAP,63,58,178,295,28.29,1683,5.7,2023
+Andhra Pradesh,Millet,Black Soil,NPK,91,70,125,144,34.19,1271,7.95,2023
+Punjab,Groundnut,Sandy,Organic,31,101,56,252,19.62,900,7.42,2013
+Andhra Pradesh,Pulses,Red Soil,NPK,90,77,28,293,27.05,1070,6.6,2006
+Gujarat,Sugarcane,Clay,Potash,60,65,146,173,29.82,88387,7.05,2021
+Punjab,Sugarcane,Red Soil,Compost,67,20,111,78,20.4,54668,7.74,2006
+Maharashtra,Maize,Red Soil,Urea,31,7,153,131,33.07,1388,7.0,2012
+Tamil Nadu,Cotton,Clay,Organic,36,26,90,176,36.06,1014,6.57,2002
+Rajasthan,Pulses,Loamy,DAP,76,80,193,157,28.58,899,7.83,2012
+Uttar Pradesh,Wheat,Clay,Organic,64,42,42,76,36.85,2336,6.53,2001
+Haryana,Soybean,Sandy,Organic,39,56,45,217,24.78,1615,5.66,2007
+West Bengal,Cotton,Black Soil,Organic,126,7,35,241,28.6,1422,6.88,2000
+Maharashtra,Pulses,Loamy,Organic,69,18,59,138,34.15,1572,7.87,2006
+Rajasthan,Rice,Red Soil,NPK,71,114,107,165,18.97,1676,7.76,2011
+Bihar,Millet,Sandy,Compost,37,92,146,275,20.95,795,7.66,2021
+Bihar,Rice,Sandy,Organic,27,7,168,58,35.47,2363,6.87,2020
+Rajasthan,Soybean,Clay,Urea,59,82,30,118,33.7,1149,6.28,2010
+Karnataka,Cotton,Clay,Organic,57,87,119,98,30.67,1359,7.38,2007
+Punjab,Barley,Loamy,DAP,97,65,192,159,22.86,1553,6.54,2011
+Kerala,Maize,Clay,Potash,116,8,144,60,19.75,1396,7.41,2023
+Andhra Pradesh,Groundnut,Red Soil,Organic,117,84,76,240,30.62,1424,7.36,2002
+Maharashtra,Soybean,Clay,Compost,103,113,134,163,19.44,1537,5.73,2001
+Punjab,Pulses,Sandy,Urea,139,38,144,109,26.57,1482,6.99,2006
+Rajasthan,Pulses,Sandy,Compost,138,93,177,244,28.26,1025,7.08,2016
+Odisha,Millet,Sandy,NPK,68,77,135,299,33.98,1031,7.52,2005
+Tamil Nadu,Barley,Red Soil,Organic,84,43,127,266,29.24,2940,5.55,2015
+Uttar Pradesh,Wheat,Loamy,Potash,20,91,158,213,35.54,2471,6.07,2004
+Uttar Pradesh,Rice,Loamy,Urea,94,45,38,215,34.77,2904,6.79,2008
+West Bengal,Pulses,Red Soil,Potash,109,108,121,253,37.07,1189,7.52,2016
+Odisha,Sugarcane,Sandy,Urea,12,64,75,167,37.16,83619,7.62,2010
+West Bengal,Rice,Loamy,Potash,57,100,142,291,34.26,2004,6.13,2019
+Tamil Nadu,Cotton,Loamy,NPK,12,97,28,87,18.2,1689,6.08,2015
+Tamil Nadu,Soybean,Red Soil,Compost,62,27,111,152,24.86,856,7.68,2023
+Bihar,Rice,Sandy,Organic,120,25,32,122,37.57,3092,6.92,2023
+Telangana,Barley,Black Soil,DAP,112,119,95,100,27.09,1843,7.61,2001
+Tamil Nadu,Barley,Clay,Potash,24,63,79,110,31.46,2671,5.98,2017
+Gujarat,Wheat,Red Soil,Potash,20,77,106,161,28.62,3575,6.22,2009
+Tamil Nadu,Millet,Red Soil,NPK,61,64,149,140,22.23,835,5.85,2007
+Gujarat,Sugarcane,Black Soil,Organic,53,32,40,125,30.39,79285,6.44,2023
+West Bengal,Cotton,Red Soil,Compost,101,101,189,99,22.41,1361,6.74,2005
+Bihar,Millet,Clay,Organic,103,105,154,240,20.89,1422,7.86,2020
+Maharashtra,Soybean,Red Soil,Compost,56,31,46,98,32.11,835,7.14,2018
+Bihar,Wheat,Clay,Potash,60,111,48,71,33.49,3769,6.66,2021
+Kerala,Maize,Black Soil,NPK,128,26,82,188,28.32,1910,6.81,2001
+Karnataka,Cotton,Sandy,NPK,105,113,138,100,31.7,1683,5.69,2022
+Maharashtra,Rice,Sandy,Organic,125,37,136,294,32.85,1988,6.42,2012
+Haryana,Pulses,Clay,Organic,46,55,179,192,37.96,1067,7.25,2009
+Telangana,Sugarcane,Clay,Compost,54,24,179,170,20.33,67304,7.55,2016
+Bihar,Groundnut,Loamy,Urea,133,13,163,251,34.29,1376,5.6,2006
+Odisha,Rice,Clay,NPK,16,17,118,87,27.45,1815,6.04,2018
+Haryana,Millet,Loamy,Organic,111,114,158,194,28.64,1344,6.38,2011
+Haryana,Wheat,Clay,Organic,134,21,94,150,34.55,2702,7.96,2022
+Andhra Pradesh,Barley,Clay,Compost,67,30,155,171,20.94,1664,6.29,2015
+Gujarat,Cotton,Clay,Organic,51,109,66,285,35.99,978,7.75,2002
+Punjab,Wheat,Sandy,DAP,18,69,76,258,35.21,2692,7.35,2021
+Bihar,Wheat,Clay,Compost,118,18,170,165,19.44,2898,6.3,2018
+West Bengal,Millet,Sandy,DAP,73,118,51,179,26.55,974,5.79,2023
+Punjab,Cotton,Sandy,Urea,134,81,83,255,26.39,1227,7.04,2016
+Bihar,Groundnut,Sandy,DAP,93,13,63,114,28.46,1117,7.26,2011
+Haryana,Cotton,Sandy,Urea,50,24,41,170,35.66,962,7.24,2003
+Odisha,Rice,Clay,DAP,18,13,98,163,24.74,1771,7.72,2008
+Uttar Pradesh,Soybean,Loamy,DAP,70,48,80,104,35.42,1272,7.42,2001
+Punjab,Maize,Sandy,NPK,26,108,125,290,19.59,2769,7.08,2005
+Punjab,Pulses,Sandy,Organic,128,102,82,192,29.83,1643,6.3,2005
+Odisha,Millet,Clay,Compost,52,75,57,224,34.05,934,7.41,2001
+Rajasthan,Sugarcane,Red Soil,Potash,11,38,112,238,29.51,60701,5.84,2003
+Telangana,Cotton,Clay,NPK,87,49,114,128,27.09,1752,7.56,2006
+Punjab,Barley,Sandy,Compost,115,15,44,98,28.94,1381,7.02,2017
+Kerala,Pulses,Clay,NPK,34,92,159,293,29.73,1059,7.19,2002
+Tamil Nadu,Rice,Clay,DAP,10,106,43,135,29.47,1699,6.82,2014
+Rajasthan,Sugarcane,Loamy,Organic,22,8,197,272,35.83,84832,7.92,2022
+Andhra Pradesh,Pulses,Loamy,Urea,116,72,174,202,23.07,1786,7.73,2017
+Madhya Pradesh,Maize,Loamy,Compost,86,44,101,108,33.18,1892,6.31,2005
+Andhra Pradesh,Pulses,Clay,DAP,97,66,33,199,23.83,655,7.56,2016
+Gujarat,Pulses,Clay,Organic,83,75,191,52,37.7,1090,5.73,2015
+Madhya Pradesh,Pulses,Loamy,Urea,27,6,38,168,36.56,1698,7.3,2008
+Bihar,Cotton,Red Soil,NPK,133,104,175,132,30.17,1066,6.07,2019
+Madhya Pradesh,Rice,Loamy,DAP,14,60,62,238,33.17,1591,7.83,2010
+Maharashtra,Millet,Sandy,Potash,98,97,25,165,32.48,975,5.84,2015
+Maharashtra,Pulses,Sandy,Organic,131,23,95,227,30.75,1620,5.66,2001
+Haryana,Barley,Clay,DAP,16,85,44,115,18.06,1618,6.04,2005
+Rajasthan,Sugarcane,Black Soil,NPK,135,68,101,207,28.79,81766,7.11,2024
+Odisha,Wheat,Loamy,Urea,92,46,26,195,28.28,3464,6.12,2014
+Karnataka,Rice,Sandy,Compost,117,33,71,155,23.96,2103,7.38,2014
+Gujarat,Pulses,Loamy,Potash,54,100,83,74,36.1,1729,7.53,2024
+Andhra Pradesh,Cotton,Sandy,Compost,54,8,165,145,28.97,812,6.37,2020
+Odisha,Soybean,Clay,Organic,121,117,128,267,32.09,859,5.99,2012
+Bihar,Cotton,Black Soil,DAP,55,68,189,161,28.07,1174,6.51,2000
+Rajasthan,Millet,Sandy,Potash,27,104,62,281,31.83,1168,6.05,2000
+Punjab,Groundnut,Loamy,Compost,45,113,13,107,34.47,1144,6.71,2006
+Haryana,Groundnut,Black Soil,Urea,89,38,146,286,37.58,1360,6.11,2007
+Maharashtra,Pulses,Loamy,DAP,28,88,17,65,21.02,946,7.61,2019
+Bihar,Cotton,Clay,Organic,20,110,64,83,20.99,1068,7.94,2002
+Punjab,Cotton,Clay,Potash,87,118,79,244,29.0,1202,6.71,2018
+Kerala,Cotton,Black Soil,Potash,45,21,62,62,18.4,1474,7.82,2014
+West Bengal,Pulses,Sandy,NPK,84,93,46,50,31.72,1282,7.8,2005
+West Bengal,Barley,Sandy,DAP,37,44,198,139,36.84,2480,6.15,2016
+West Bengal,Sugarcane,Clay,Organic,35,68,72,178,22.85,50827,7.26,2014
+Karnataka,Cotton,Loamy,DAP,99,97,109,298,30.31,849,7.53,2018
+Punjab,Pulses,Black Soil,Potash,25,80,119,106,36.42,1107,7.54,2016
+Andhra Pradesh,Cotton,Sandy,NPK,73,21,67,292,18.64,1552,6.0,2005
+Maharashtra,Maize,Black Soil,Urea,64,114,28,79,21.09,1176,6.72,2019
+Haryana,Rice,Clay,Organic,61,61,169,52,25.82,2516,7.75,2022
+Haryana,Soybean,Loamy,Potash,135,54,60,175,35.42,998,6.84,2017
+Kerala,Sugarcane,Loamy,DAP,68,86,128,289,37.25,67191,7.66,2001
+West Bengal,Soybean,Clay,Potash,70,5,178,51,25.68,826,7.42,2008
+Uttar Pradesh,Rice,Red Soil,Potash,52,11,68,213,36.11,1888,7.85,2011
+Uttar Pradesh,Millet,Red Soil,NPK,51,53,125,227,30.11,1292,7.48,2002
+Karnataka,Cotton,Sandy,Potash,94,107,23,60,37.47,1218,6.88,2003
+Odisha,Millet,Clay,Organic,13,36,18,93,19.13,644,7.93,2010
+Maharashtra,Pulses,Black Soil,Urea,40,113,101,281,33.62,1709,7.7,2009
+Madhya Pradesh,Maize,Clay,NPK,62,8,79,170,24.81,2819,6.24,2005
+Tamil Nadu,Soybean,Red Soil,Potash,102,96,76,116,30.54,912,5.87,2019
+Haryana,Barley,Sandy,DAP,136,81,10,268,32.16,2151,6.58,2024
+Karnataka,Maize,Loamy,NPK,35,90,173,69,32.67,2028,7.68,2005
+Andhra Pradesh,Millet,Loamy,Compost,29,97,149,287,30.17,1265,6.12,2008
+Bihar,Millet,Clay,Potash,137,118,180,242,20.57,1447,5.98,2008
+Madhya Pradesh,Maize,Loamy,Compost,18,10,146,234,26.57,2632,5.72,2016
+Rajasthan,Sugarcane,Red Soil,NPK,84,69,87,69,23.79,86016,7.57,2019
+Andhra Pradesh,Cotton,Clay,Organic,28,106,181,114,34.5,1571,5.97,2004
+Madhya Pradesh,Pulses,Loamy,Potash,98,117,145,162,32.71,1738,7.32,2017
+Tamil Nadu,Barley,Sandy,Potash,116,42,121,104,37.33,2991,6.36,2017
+Telangana,Millet,Black Soil,Urea,136,105,120,128,19.66,1340,7.33,2004
+Odisha,Pulses,Clay,Potash,65,98,107,225,32.46,661,6.04,2015
+Madhya Pradesh,Soybean,Clay,Urea,26,109,167,299,37.59,1110,7.0,2010
+Tamil Nadu,Groundnut,Sandy,Organic,40,32,83,53,34.68,1971,5.73,2020
+Rajasthan,Millet,Red Soil,Potash,48,61,159,196,18.4,1281,7.39,2006
+Bihar,Maize,Black Soil,Compost,58,90,163,122,22.97,2532,7.21,2021
+Odisha,Sugarcane,Clay,Potash,59,87,135,276,27.14,76878,7.23,2021
+Maharashtra,Maize,Black Soil,DAP,28,6,107,171,32.42,2006,6.84,2013
+Andhra Pradesh,Rice,Black Soil,NPK,99,9,42,205,32.45,1746,7.75,2009
+Tamil Nadu,Groundnut,Loamy,Potash,25,98,141,214,25.95,879,7.48,2010
+Bihar,Cotton,Clay,Potash,71,14,88,114,18.44,1074,6.98,2020
+Maharashtra,Wheat,Sandy,NPK,63,87,16,208,24.76,3220,7.34,2017
+Gujarat,Pulses,Clay,Urea,99,45,42,173,18.58,1672,6.17,2018
+Rajasthan,Sugarcane,Clay,Urea,24,36,116,132,29.44,84709,5.73,2003
+Rajasthan,Cotton,Clay,DAP,91,7,198,145,31.99,833,6.88,2001
+Gujarat,Rice,Black Soil,DAP,106,113,160,146,29.69,2974,7.76,2000
+Haryana,Pulses,Sandy,Potash,89,112,25,288,30.25,859,5.8,2001
+Haryana,Soybean,Clay,NPK,66,102,172,62,25.57,1533,6.69,2013
+Bihar,Barley,Loamy,Urea,64,61,15,165,24.29,1749,5.98,2019
+Madhya Pradesh,Pulses,Clay,Urea,76,32,42,230,20.71,1125,7.47,2013
+Maharashtra,Millet,Sandy,DAP,54,107,166,273,30.91,1467,7.4,2009
+Haryana,Rice,Black Soil,NPK,128,5,167,120,37.22,2513,7.82,2021
+Madhya Pradesh,Wheat,Clay,Urea,48,11,24,89,25.62,3908,7.14,2009
+Haryana,Maize,Loamy,Organic,114,48,108,243,27.68,1815,7.92,2022
+Rajasthan,Groundnut,Clay,Compost,67,113,37,99,37.84,1432,6.08,2023
+Andhra Pradesh,Cotton,Clay,Organic,128,104,76,85,20.33,1683,6.62,2017
+Madhya Pradesh,Wheat,Black Soil,NPK,139,98,89,160,29.85,3097,7.24,2011
+Madhya Pradesh,Wheat,Sandy,Organic,133,95,146,95,25.27,3686,6.09,2000
+Gujarat,Sugarcane,Black Soil,Urea,137,91,156,272,34.74,66968,7.82,2020
+West Bengal,Maize,Clay,NPK,99,116,66,98,34.77,1459,7.36,2022
+Andhra Pradesh,Rice,Sandy,DAP,26,14,30,131,31.9,2109,5.84,2018
+West Bengal,Rice,Clay,NPK,46,82,21,242,19.11,1632,7.78,2013
+Punjab,Maize,Loamy,Urea,69,116,140,296,22.08,2668,6.86,2016
+Odisha,Sugarcane,Red Soil,NPK,96,100,78,102,33.49,52601,6.53,2006
+Madhya Pradesh,Groundnut,Black Soil,Organic,82,13,165,253,34.11,969,7.36,2016
+Kerala,Cotton,Clay,DAP,44,44,43,50,24.67,970,5.92,2005
+Madhya Pradesh,Sugarcane,Clay,Potash,86,12,72,284,23.6,60300,6.65,2003
+Maharashtra,Wheat,Loamy,Compost,64,8,93,227,35.4,4495,6.67,2021
+Rajasthan,Maize,Red Soil,Potash,126,54,155,297,26.58,1516,6.78,2004
+Maharashtra,Cotton,Clay,Compost,132,73,77,163,18.66,1142,6.64,2017
+Madhya Pradesh,Sugarcane,Loamy,Potash,101,99,134,281,34.15,75484,6.12,2007
+Maharashtra,Groundnut,Clay,Potash,114,10,39,97,28.52,1317,6.03,2014
+Odisha,Cotton,Loamy,Urea,46,98,38,91,31.62,980,6.63,2003
+Madhya Pradesh,Groundnut,Loamy,NPK,44,109,40,167,35.65,1873,6.88,2020
+Bihar,Barley,Clay,NPK,44,46,117,199,24.78,1339,7.39,2004
+Gujarat,Wheat,Sandy,NPK,78,47,58,82,28.35,3707,7.78,2013
+Karnataka,Soybean,Clay,Organic,13,47,53,281,31.93,1184,5.91,2001
+Punjab,Cotton,Red Soil,Potash,85,93,41,169,28.66,1239,5.63,2010
+Telangana,Maize,Red Soil,NPK,35,21,56,266,27.23,1928,5.67,2000
+Bihar,Soybean,Sandy,DAP,97,40,73,287,30.78,1377,6.04,2005
+Madhya Pradesh,Groundnut,Loamy,Organic,92,103,82,229,18.31,1461,6.5,2010
+Madhya Pradesh,Maize,Loamy,NPK,58,30,66,162,35.94,2385,6.49,2005
+Kerala,Wheat,Sandy,Potash,92,53,69,134,18.33,2758,7.35,2010
+Andhra Pradesh,Millet,Black Soil,Potash,96,16,185,250,18.22,507,7.62,2024
+Andhra Pradesh,Millet,Black Soil,Compost,63,104,114,96,30.65,618,7.67,2024
+Odisha,Rice,Clay,Potash,56,33,68,80,35.82,2869,6.95,2004
+Bihar,Barley,Clay,Urea,121,66,165,133,29.43,2478,5.95,2015
+Andhra Pradesh,Soybean,Black Soil,Potash,28,43,51,204,34.33,1500,5.81,2005
+Odisha,Millet,Black Soil,NPK,44,107,170,111,31.96,655,6.56,2022
+Kerala,Maize,Red Soil,Potash,49,36,47,65,31.95,2709,6.57,2008
+Rajasthan,Millet,Sandy,Organic,66,115,122,111,32.59,1072,5.61,2010
+Odisha,Cotton,Black Soil,Compost,49,96,134,141,20.62,1525,7.31,2023
+Tamil Nadu,Barley,Black Soil,Urea,99,26,153,291,22.76,2504,6.14,2016
+Odisha,Millet,Clay,NPK,12,58,180,229,36.19,774,7.73,2006
+Rajasthan,Millet,Sandy,Urea,118,56,151,288,18.12,604,6.99,2018
+Tamil Nadu,Sugarcane,Black Soil,Potash,21,6,129,227,34.86,79259,5.67,2016
+Tamil Nadu,Barley,Loamy,Potash,57,54,159,88,36.24,2149,6.57,2010
+Tamil Nadu,Rice,Red Soil,Potash,69,20,60,62,23.1,2097,5.81,2013
+Bihar,Sugarcane,Sandy,Compost,16,62,15,148,26.93,67245,5.51,2004
+Maharashtra,Maize,Black Soil,NPK,84,107,192,203,25.2,1436,6.42,2005
+Tamil Nadu,Pulses,Black Soil,Potash,41,94,153,283,36.83,1606,7.98,2009
+Haryana,Groundnut,Sandy,DAP,50,29,38,212,21.07,1376,6.09,2022
+West Bengal,Rice,Loamy,Organic,125,6,24,52,37.03,2839,5.85,2021
+Bihar,Cotton,Sandy,Urea,60,12,194,110,31.92,1376,6.02,2004
+Telangana,Rice,Loamy,DAP,99,52,45,106,34.4,2547,6.89,2020
+Telangana,Millet,Red Soil,Urea,39,105,17,227,36.81,1373,5.51,2002
+Uttar Pradesh,Wheat,Loamy,DAP,60,111,64,132,34.53,4041,7.26,2012
+Tamil Nadu,Cotton,Red Soil,DAP,95,31,105,287,36.77,841,7.47,2023
+Andhra Pradesh,Pulses,Red Soil,DAP,56,46,103,86,37.69,1303,6.45,2022
+Andhra Pradesh,Maize,Black Soil,Compost,114,93,88,283,22.31,2325,6.84,2014
+Uttar Pradesh,Cotton,Black Soil,DAP,135,50,62,279,27.26,993,7.08,2022
+Bihar,Barley,Clay,NPK,72,82,164,56,31.04,1361,7.46,2002
+Odisha,Barley,Sandy,Organic,77,68,111,256,29.02,1388,5.91,2023
+Gujarat,Barley,Black Soil,Potash,28,58,123,160,32.33,1887,6.07,2017
+Haryana,Pulses,Black Soil,Organic,58,78,91,63,22.29,1724,6.31,2003
+Odisha,Groundnut,Black Soil,Potash,45,55,150,196,20.37,1680,5.63,2017
+Tamil Nadu,Wheat,Clay,Potash,127,48,86,180,36.0,2778,5.97,2024
+Telangana,Soybean,Red Soil,Urea,101,65,172,131,22.69,946,7.76,2021
+Gujarat,Sugarcane,Sandy,NPK,60,53,83,208,31.36,85172,6.5,2007
+Bihar,Barley,Sandy,Organic,41,34,132,176,34.31,1519,7.21,2023
+Gujarat,Maize,Black Soil,Potash,19,82,34,100,26.13,2230,6.92,2018
+Odisha,Sugarcane,Red Soil,DAP,126,21,58,52,32.54,73515,7.72,2022
+Haryana,Soybean,Loamy,Urea,106,33,32,169,20.53,1689,6.75,2011
+Tamil Nadu,Pulses,Sandy,Urea,139,18,195,268,30.16,875,7.67,2006
+Uttar Pradesh,Groundnut,Loamy,NPK,33,89,39,54,30.8,1660,5.98,2013
+Telangana,Wheat,Clay,DAP,11,23,85,173,28.69,2483,6.68,2009
+Punjab,Wheat,Black Soil,DAP,44,65,73,64,30.11,3483,7.45,2021
+Madhya Pradesh,Cotton,Sandy,Compost,128,37,121,138,18.1,1593,6.67,2019
+Telangana,Rice,Clay,Urea,52,13,86,97,24.17,3224,6.17,2016
+Punjab,Cotton,Red Soil,Compost,20,35,47,173,33.42,854,7.7,2016
+West Bengal,Wheat,Red Soil,Potash,109,30,78,265,24.89,3433,7.34,2003
+Rajasthan,Pulses,Black Soil,Potash,49,76,67,231,36.92,1630,6.95,2014
+Telangana,Wheat,Red Soil,Urea,27,97,80,132,26.61,3707,6.27,2001
+Tamil Nadu,Barley,Loamy,Potash,101,14,118,109,34.92,2501,6.57,2010
+Karnataka,Groundnut,Loamy,Organic,40,40,31,129,22.09,1886,7.75,2003
+Maharashtra,Groundnut,Red Soil,Organic,56,91,199,242,28.53,943,5.66,2004
+West Bengal,Pulses,Loamy,Organic,101,63,53,299,37.08,1474,6.84,2024
+Punjab,Sugarcane,Black Soil,Compost,107,26,177,268,19.4,89946,7.5,2007
+Telangana,Maize,Red Soil,Urea,22,112,140,66,36.15,2518,6.18,2019
+West Bengal,Barley,Red Soil,Potash,14,46,99,105,27.92,1801,6.21,2020
+Punjab,Barley,Red Soil,Compost,18,84,170,68,30.02,2920,6.49,2020
+West Bengal,Groundnut,Black Soil,NPK,67,81,195,232,18.54,1401,6.9,2022
+Haryana,Pulses,Clay,DAP,83,84,191,153,18.74,1503,6.17,2011
+Rajasthan,Sugarcane,Black Soil,Organic,48,55,197,125,27.65,72100,7.0,2007
+West Bengal,Sugarcane,Red Soil,Potash,53,102,28,85,25.42,86089,7.22,2000
+Punjab,Sugarcane,Sandy,NPK,82,11,94,202,26.85,87499,7.75,2014
+West Bengal,Maize,Loamy,Compost,26,36,76,53,29.96,1208,7.63,2016
+Kerala,Sugarcane,Loamy,Organic,100,45,68,258,19.58,87889,5.75,2010
+Madhya Pradesh,Barley,Black Soil,Organic,28,39,168,282,37.54,2571,6.19,2015
+Odisha,Sugarcane,Sandy,DAP,59,111,134,266,33.77,67596,6.47,2011
+Punjab,Barley,Black Soil,Compost,127,32,83,70,30.56,2150,7.17,2016
+Rajasthan,Barley,Black Soil,DAP,21,36,51,291,25.78,1401,6.09,2010
+Gujarat,Pulses,Clay,Potash,10,75,66,90,31.25,1367,5.52,2015
+Haryana,Pulses,Red Soil,Urea,134,90,104,295,32.55,744,6.28,2002
+Uttar Pradesh,Soybean,Clay,DAP,96,33,67,54,29.67,1346,5.58,2010
+Tamil Nadu,Pulses,Clay,DAP,52,109,18,291,24.61,745,6.1,2015
+Kerala,Millet,Red Soil,NPK,102,94,146,217,33.51,1077,7.94,2011
+Maharashtra,Maize,Sandy,NPK,118,51,46,167,34.49,1137,6.25,2011
+Telangana,Sugarcane,Sandy,DAP,115,117,44,239,26.57,77569,7.99,2007
+Kerala,Sugarcane,Clay,Organic,99,93,153,147,19.29,55008,7.83,2015
+Bihar,Maize,Black Soil,Compost,109,113,192,188,21.29,1815,6.84,2015
+Madhya Pradesh,Pulses,Black Soil,DAP,104,68,147,258,23.88,776,6.77,2018
+Telangana,Cotton,Red Soil,DAP,130,20,140,149,26.18,1687,7.23,2017
+Madhya Pradesh,Soybean,Clay,DAP,87,49,193,275,19.82,967,6.08,2001
+Tamil Nadu,Millet,Clay,Potash,88,79,168,146,19.48,957,6.1,2012
+Madhya Pradesh,Maize,Black Soil,Organic,133,12,138,241,31.11,1969,7.77,2011
+Haryana,Rice,Black Soil,Urea,36,26,78,156,18.59,2037,7.55,2015
+Uttar Pradesh,Soybean,Black Soil,DAP,69,28,58,232,32.77,1938,6.72,2004
+Haryana,Cotton,Red Soil,NPK,53,32,60,159,30.15,881,5.53,2022
+Haryana,Barley,Clay,Organic,53,61,158,262,19.6,1753,6.66,2000
+Haryana,Barley,Black Soil,Organic,130,41,192,259,33.72,1443,5.62,2002
+Punjab,Cotton,Clay,Urea,113,67,101,83,19.23,1148,7.27,2020
+Tamil Nadu,Cotton,Black Soil,Urea,88,33,173,114,34.2,1675,7.11,2006
+Andhra Pradesh,Cotton,Red Soil,Organic,43,30,47,109,33.43,873,7.27,2013
+Telangana,Maize,Loamy,Organic,116,31,184,104,36.71,2225,7.5,2002
+Tamil Nadu,Rice,Clay,Urea,41,99,122,228,29.19,2210,5.83,2022
+Maharashtra,Groundnut,Loamy,NPK,92,72,196,111,37.26,1371,6.06,2020
+Kerala,Rice,Sandy,Organic,42,18,148,207,34.79,2208,7.4,2011
+Telangana,Cotton,Sandy,DAP,115,9,178,136,24.16,1757,7.24,2018
+Punjab,Millet,Loamy,Organic,133,76,161,101,23.76,888,6.13,2018
+Madhya Pradesh,Pulses,Loamy,Potash,88,73,43,183,19.39,877,7.05,2007
+Telangana,Groundnut,Red Soil,Potash,36,72,156,286,18.32,1485,7.55,2023
+Odisha,Cotton,Black Soil,NPK,102,112,112,78,36.66,1203,7.22,2020
+Odisha,Sugarcane,Sandy,Potash,32,48,11,64,24.29,87110,7.33,2008
+Tamil Nadu,Wheat,Loamy,DAP,138,74,104,208,25.41,4202,7.21,2015
+West Bengal,Wheat,Clay,NPK,73,57,75,203,22.24,3651,6.94,2000
+Gujarat,Rice,Black Soil,NPK,82,114,31,116,32.01,2218,7.84,2000
+Tamil Nadu,Maize,Clay,DAP,115,117,183,118,36.58,2612,6.69,2024
+Bihar,Sugarcane,Red Soil,Potash,69,61,34,276,30.8,65290,6.75,2004
+Odisha,Millet,Loamy,Organic,124,113,145,143,30.4,507,6.92,2021
+West Bengal,Soybean,Clay,NPK,84,35,29,129,34.44,1316,7.34,2022
+Rajasthan,Groundnut,Sandy,Urea,84,96,102,153,37.33,1681,6.28,2018
+Gujarat,Sugarcane,Sandy,DAP,32,21,86,178,33.06,81926,7.24,2022
+Telangana,Barley,Sandy,Organic,56,30,27,221,19.54,2713,6.57,2012
+Kerala,Wheat,Red Soil,NPK,15,85,163,111,20.3,3413,7.52,2001
+Bihar,Pulses,Black Soil,Compost,93,114,111,246,25.71,854,6.17,2009
+Maharashtra,Rice,Red Soil,DAP,37,87,100,277,18.47,1804,7.5,2024
+Uttar Pradesh,Maize,Black Soil,DAP,17,21,25,250,26.7,2409,7.61,2024
+Gujarat,Rice,Sandy,Potash,32,43,24,277,19.9,2493,6.46,2014
+Kerala,Maize,Clay,DAP,67,46,174,50,28.91,1881,7.06,2003
+Maharashtra,Wheat,Clay,NPK,74,108,191,205,23.81,2137,7.68,2016
+Bihar,Groundnut,Loamy,Potash,56,7,197,147,23.7,1198,6.44,2018
+Punjab,Maize,Clay,Compost,48,26,146,275,29.95,1521,6.99,2002
+Haryana,Maize,Clay,Potash,19,99,148,201,24.11,2903,7.35,2013
+Uttar Pradesh,Cotton,Red Soil,Potash,130,57,93,125,27.33,1718,6.17,2017
+West Bengal,Wheat,Loamy,Compost,61,70,146,108,33.39,3310,6.6,2011
+Madhya Pradesh,Maize,Clay,Compost,61,96,177,126,25.54,1420,5.99,2013
+Andhra Pradesh,Millet,Black Soil,DAP,100,44,101,64,24.26,597,6.1,2013
+Bihar,Sugarcane,Loamy,NPK,103,73,65,59,34.43,88817,7.26,2002
+Punjab,Pulses,Red Soil,NPK,120,71,128,154,36.89,1742,7.34,2008
+Kerala,Cotton,Sandy,NPK,115,60,59,145,27.33,1340,7.75,2007
+Maharashtra,Sugarcane,Red Soil,DAP,26,11,151,147,25.23,73815,6.8,2020
+Karnataka,Sugarcane,Red Soil,Compost,89,62,75,163,29.51,69342,7.47,2016
+Haryana,Soybean,Red Soil,Potash,53,49,38,113,35.97,1302,5.74,2016
+Karnataka,Soybean,Clay,Compost,99,49,165,191,24.89,964,6.92,2021
+West Bengal,Millet,Clay,Organic,56,25,109,209,24.51,1139,6.99,2019
+West Bengal,Pulses,Loamy,Urea,116,44,42,52,33.09,923,5.67,2021
+Andhra Pradesh,Maize,Clay,DAP,55,74,26,63,28.24,1211,7.97,2020
+Tamil Nadu,Cotton,Red Soil,Compost,65,17,183,232,20.26,1071,7.7,2021
+Uttar Pradesh,Soybean,Clay,Organic,15,50,103,58,28.68,962,6.95,2005
+Haryana,Maize,Sandy,Potash,56,91,130,90,31.83,2723,7.37,2008
+Bihar,Millet,Clay,DAP,38,39,47,87,30.16,1343,6.89,2013
+Karnataka,Pulses,Black Soil,NPK,54,67,115,120,36.07,1441,6.91,2015
+Bihar,Rice,Black Soil,Urea,98,52,106,172,33.76,1625,6.31,2002
+Maharashtra,Pulses,Loamy,Urea,49,28,187,102,32.95,1166,5.98,2022
+Telangana,Wheat,Red Soil,Potash,61,38,74,117,25.8,2468,6.88,2022
+Punjab,Rice,Red Soil,Urea,134,18,140,241,20.2,3013,6.29,2012
+Telangana,Groundnut,Clay,DAP,102,114,60,134,21.65,1428,6.99,2022
+Haryana,Soybean,Clay,DAP,130,72,59,257,32.87,1734,6.89,2019
+Uttar Pradesh,Soybean,Red Soil,NPK,129,5,164,151,33.34,1174,5.5,2018
+Uttar Pradesh,Cotton,Sandy,Potash,55,94,179,251,30.95,871,6.01,2024
+Odisha,Cotton,Red Soil,Urea,28,72,14,62,30.82,987,6.63,2001
+Madhya Pradesh,Barley,Loamy,Compost,84,8,88,144,26.87,1866,6.93,2022
+Punjab,Soybean,Sandy,DAP,26,42,26,259,18.22,1628,5.69,2015
+Bihar,Wheat,Clay,Organic,98,102,117,199,26.17,4137,5.74,2015
+Gujarat,Pulses,Red Soil,Compost,75,65,81,52,22.42,1517,5.96,2021
+Gujarat,Maize,Loamy,Potash,120,72,51,290,20.89,2535,6.28,2000
+West Bengal,Cotton,Clay,NPK,121,22,33,228,37.04,1717,6.65,2002
+Madhya Pradesh,Millet,Sandy,DAP,57,6,42,258,30.42,835,5.93,2014
+Madhya Pradesh,Wheat,Clay,DAP,49,87,132,233,32.66,3828,6.26,2010
+Karnataka,Barley,Clay,NPK,58,69,30,267,36.93,1241,6.7,2022
+Andhra Pradesh,Wheat,Sandy,DAP,113,40,193,157,19.83,4438,7.21,2006
+Andhra Pradesh,Sugarcane,Red Soil,Potash,77,108,16,189,23.5,57731,7.35,2024
+West Bengal,Wheat,Clay,Organic,34,97,151,224,18.06,2908,5.93,2015
+Bihar,Millet,Loamy,NPK,57,93,122,265,37.31,932,6.83,2001
+Gujarat,Sugarcane,Black Soil,Urea,23,58,131,140,26.68,86169,7.31,2024
+Haryana,Sugarcane,Black Soil,Compost,26,82,106,165,22.24,52778,7.41,2003
+Madhya Pradesh,Rice,Black Soil,Compost,24,50,168,144,36.14,2064,5.5,2017
+Kerala,Barley,Loamy,Potash,48,32,136,184,21.69,2779,7.81,2021
+Karnataka,Pulses,Black Soil,Potash,109,89,86,255,27.39,993,6.2,2024
+Bihar,Rice,Clay,Urea,69,98,132,50,27.08,3482,7.3,2000
+Gujarat,Pulses,Red Soil,Urea,34,44,197,128,30.04,1046,7.79,2010
+West Bengal,Barley,Clay,Compost,93,54,29,287,35.29,2557,7.32,2000
+Haryana,Groundnut,Loamy,DAP,89,75,198,226,30.33,1055,7.12,2009
+Telangana,Soybean,Clay,DAP,113,39,120,80,31.37,1732,7.27,2009
+Madhya Pradesh,Wheat,Clay,DAP,12,61,80,257,27.66,3394,6.07,2005
+Rajasthan,Soybean,Loamy,Compost,22,73,117,146,27.42,1701,6.5,2002
+Telangana,Maize,Loamy,NPK,25,58,174,72,23.57,2418,7.21,2011
+Tamil Nadu,Rice,Sandy,NPK,106,7,135,225,32.97,2640,6.4,2000
+Tamil Nadu,Barley,Sandy,Urea,26,10,137,221,30.45,2370,7.33,2022
+Punjab,Barley,Red Soil,Potash,89,47,141,174,24.42,2886,7.58,2011
+Kerala,Barley,Red Soil,Potash,24,50,53,272,26.53,1855,6.88,2001
+Uttar Pradesh,Wheat,Loamy,NPK,67,29,47,203,30.66,2196,6.5,2023
+Tamil Nadu,Cotton,Black Soil,Compost,105,80,184,203,27.9,1521,6.88,2009
+Kerala,Maize,Clay,Urea,95,108,31,165,26.79,1923,7.36,2006
+Maharashtra,Barley,Red Soil,Compost,33,63,12,252,30.0,1752,6.53,2001
+West Bengal,Rice,Clay,Urea,63,44,13,57,18.71,2330,7.58,2013
+Telangana,Soybean,Loamy,Compost,136,113,38,145,20.38,1127,7.48,2020
+Bihar,Sugarcane,Black Soil,Urea,60,32,120,140,33.52,57708,6.61,2023
+Karnataka,Maize,Sandy,DAP,27,62,81,249,35.64,1329,6.07,2019
+Andhra Pradesh,Barley,Black Soil,Urea,50,105,21,223,31.23,1749,7.55,2004
+Karnataka,Millet,Sandy,Compost,30,9,118,264,36.81,625,6.2,2012
+Punjab,Groundnut,Red Soil,Potash,125,113,121,99,21.03,1103,6.58,2014
+Maharashtra,Millet,Black Soil,Urea,136,79,51,72,22.05,1491,6.82,2010
+Maharashtra,Millet,Red Soil,Potash,38,11,192,61,31.51,564,7.73,2002
+Haryana,Soybean,Sandy,Compost,133,44,57,171,22.98,1091,7.63,2018
+Punjab,Sugarcane,Loamy,Urea,108,86,37,115,27.79,54122,5.72,2005
+West Bengal,Pulses,Red Soil,Urea,73,110,38,199,25.56,1784,6.66,2014
+Rajasthan,Maize,Loamy,NPK,101,32,117,70,33.28,1393,6.22,2007
+Rajasthan,Cotton,Red Soil,DAP,31,93,24,223,30.05,1012,7.07,2002
