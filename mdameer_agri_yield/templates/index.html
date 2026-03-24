@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Yield Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-header">
+                <i class="fas fa-seedling logo-icon"></i>
+                <h1>Crop Yield Prediction</h1>
+                <p>Enter field details to estimate your agricultural output</p>
+            </div>
+
+            {% if error %}
+            <div class="alert alert-error">
+                <i class="fas fa-exclamation-circle"></i> {{ error }}
+            </div>
+            {% endif %}
+
+            <form action="/predict" method="POST" class="prediction-form">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="state"><i class="fas fa-map-marker-alt"></i> State</label>
+                        <select name="state" id="state" required>
+                            <option value="" disabled selected>Select State</option>
+                            <option value="Karnataka">Karnataka</option>
+                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                            <option value="Tamil Nadu">Tamil Nadu</option>
+                            <option value="Maharashtra">Maharashtra</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="crop"><i class="fas fa-wheat-awn"></i> Crop</label>
+                        <select name="crop" id="crop" required>
+                            <option value="" disabled selected>Select Crop</option>
+                            <option value="Rice">Rice</option>
+                            <option value="Wheat">Wheat</option>
+                            <option value="Sugarcane">Sugarcane</option>
+                            <option value="Cotton">Cotton</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="soil"><i class="fas fa-mountain"></i> Soil Type</label>
+                        <select name="soil" id="soil" required>
+                            <option value="" disabled selected>Select Soil Type</option>
+                            <option value="Loamy">Loamy</option>
+                            <option value="Sandy">Sandy</option>
+                            <option value="Clay">Clay</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="fertilizer"><i class="fas fa-flask"></i> Fertilizer</label>
+                        <select name="fertilizer" id="fertilizer" required>
+                            <option value="" disabled selected>Select Fertilizer</option>
+                            <option value="Urea">Urea</option>
+                            <option value="DAP">DAP</option>
+                            <option value="Compost">Compost</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="n"><i class="fas fa-n"></i> Nitrogen (N)</label>
+                        <input type="number" step="any" name="n" id="n" placeholder="e.g. 50" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="p"><i class="fas fa-p"></i> Phosphorus (P)</label>
+                        <input type="number" step="any" name="p" id="p" placeholder="e.g. 40" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="k"><i class="fas fa-k"></i> Potassium (K)</label>
+                        <input type="number" step="any" name="k" id="k" placeholder="e.g. 30" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="ph"><i class="fas fa-droplet"></i> Soil pH</label>
+                        <input type="number" step="any" name="ph" id="ph" placeholder="e.g. 6.5" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="rainfall"><i class="fas fa-cloud-rain"></i> Rainfall (mm)</label>
+                        <input type="number" step="any" name="rainfall" id="rainfall" placeholder="e.g. 1000" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="year"><i class="fas fa-calendar-days"></i> Year</label>
+                        <input type="number" name="year" id="year" placeholder="e.g. 2024" required>
+                    </div>
+                </div>
+
+                <button type="submit" class="submit-btn">
+                    <i class="fas fa-calculator"></i> Predict Yield
+                </button>
+            </form>
+
+            {% if prediction %}
+            <div class="result-card">
+                <h3><i class="fas fa-chart-line"></i> Prediction Result</h3>
+                <div class="result-grid">
+                    <div class="result-item">
+                        <span class="result-label">Predicted Yield</span>
+                        <span class="result-value">{{ prediction }} <small>kg/acre</small></span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">Efficiency</span>
+                        <span class="result-value">{{ percentage }}%</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">Category</span>
+                        <span class="result-badge" style="background-color: {{ cat_color }}">{{ category }}</span>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
